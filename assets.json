@@ -1,0 +1,3638 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d56b862d23c6560e5e8578c3a28787b9a9a97f7aaa5ae260820163095bac0615.pdf",
+      "bytes": 382362,
+      "sha256": "d56b862d23c6560e5e8578c3a28787b9a9a97f7aaa5ae260820163095bac0615",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d56b862d23c6560e5e8578c3a28787b9a9a97f7aaa5ae260820163095bac0615.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2017-06-1-f324a7153ee6.json",
+      "bytes": 31415,
+      "sha256": "bc48bfbda764464b2f98ac6a7e017c01a4b8d44d13bf02d02e777715111a5c51",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2017-06-1-f324a7153ee6.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2017-06-1-f324a7153ee6.json",
+      "bytes": 24708,
+      "sha256": "6e4cee8609d2fa777207577c604cc37d8083444fc64cb2e108f0aef8a32b4a81",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2017-06-1-f324a7153ee6.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-b9195111a89bb558dc0ef3cd6b9b0ff1b70d39d8a4d60b5bbf10472fccd77cda.pdf",
+      "bytes": 399541,
+      "sha256": "b9195111a89bb558dc0ef3cd6b9b0ff1b70d39d8a4d60b5bbf10472fccd77cda",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/b9195111a89bb558dc0ef3cd6b9b0ff1b70d39d8a4d60b5bbf10472fccd77cda.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2017-06-2-a8b2dcc83560.json",
+      "bytes": 33297,
+      "sha256": "5f68d942a56a31242e1c696b56af2bdf63ff5e52a03ce11b427423a33df427de",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2017-06-2-a8b2dcc83560.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2017-06-2-a8b2dcc83560.json",
+      "bytes": 24708,
+      "sha256": "2e696fc626472b762be4c3b0c72faa1a2df26bd1c8d96d0f5903812172416830",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2017-06-2-a8b2dcc83560.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-cb0cd5615c138da940433199970399c6fc5dc6fd5a1735972d4465855e7c4408.pdf",
+      "bytes": 329070,
+      "sha256": "cb0cd5615c138da940433199970399c6fc5dc6fd5a1735972d4465855e7c4408",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/cb0cd5615c138da940433199970399c6fc5dc6fd5a1735972d4465855e7c4408.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2017-06-3-cda5d9f4b4e3.json",
+      "bytes": 47396,
+      "sha256": "9f37f5d2af88d1cba44c499cf9c318c64090200106a5339976f2d402cbc1addb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2017-06-3-cda5d9f4b4e3.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2017-06-3-cda5d9f4b4e3.json",
+      "bytes": 23758,
+      "sha256": "daef8e900ccf2189d50a6f63fa53260ca820a804db104e4bd144bb1b7b254c50",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2017-06-3-cda5d9f4b4e3.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-a1c5339207542d51d23910ba71bbc48a8db9dceddca9fcd8eecae4163b2edcbd.pdf",
+      "bytes": 358051,
+      "sha256": "a1c5339207542d51d23910ba71bbc48a8db9dceddca9fcd8eecae4163b2edcbd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/a1c5339207542d51d23910ba71bbc48a8db9dceddca9fcd8eecae4163b2edcbd.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2017-12-1-3dd4c75817ab.json",
+      "bytes": 48797,
+      "sha256": "9ac371e14c036b77d2a64242fadf0384994082d571a0ff3eec739124148ed0ff",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2017-12-1-3dd4c75817ab.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2017-12-1-3dd4c75817ab.json",
+      "bytes": 24858,
+      "sha256": "9a7d7c3553af0b194d7135d03d09fbaa25771a7c65d2dfd60c36735430c526fa",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2017-12-1-3dd4c75817ab.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-7c93fceaf08de33a5c313f6ffa909b91998264918ccdde3c26730733f22ba87a.pdf",
+      "bytes": 387126,
+      "sha256": "7c93fceaf08de33a5c313f6ffa909b91998264918ccdde3c26730733f22ba87a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/7c93fceaf08de33a5c313f6ffa909b91998264918ccdde3c26730733f22ba87a.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2017-12-2-60b8a4987fa5.json",
+      "bytes": 48320,
+      "sha256": "6c7d61e05ea3f668081e33219dc4b9104a4c35b46391ed348c6be5577da3cbe3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2017-12-2-60b8a4987fa5.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2017-12-2-60b8a4987fa5.json",
+      "bytes": 25242,
+      "sha256": "5f9c4ccc9ca6919d9471ba7d7a489fcc6bc12217a794c0e62c9b012798036719",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2017-12-2-60b8a4987fa5.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-1be7520dfee974251c17aa4940578a6d9a976a94b734db5469dbcf1170592036.pdf",
+      "bytes": 336774,
+      "sha256": "1be7520dfee974251c17aa4940578a6d9a976a94b734db5469dbcf1170592036",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/1be7520dfee974251c17aa4940578a6d9a976a94b734db5469dbcf1170592036.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2017-12-3-36dc27377019.json",
+      "bytes": 50334,
+      "sha256": "b4ab07a3aac41710e462d7213b9fced4afbfdd3a2f606dcc635dfacf57c3e7fd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2017-12-3-36dc27377019.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2017-12-3-36dc27377019.json",
+      "bytes": 26018,
+      "sha256": "e05cd7d12071b5698f5e297ccd89eb32a79a2e872085d5fadb3d97a03a2323c7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2017-12-3-36dc27377019.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-b6c7b263b46779dcafbe73a5732ffd3eaeaea1262c13c29ad2dc9646d46cf3df.pdf",
+      "bytes": 361941,
+      "sha256": "b6c7b263b46779dcafbe73a5732ffd3eaeaea1262c13c29ad2dc9646d46cf3df",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/b6c7b263b46779dcafbe73a5732ffd3eaeaea1262c13c29ad2dc9646d46cf3df.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2018-06-1-beb61f709568.json",
+      "bytes": 56780,
+      "sha256": "2b74f0c0a8400b5f76afb975c89b98e59e81ea906ea62a985a2b5b762d28e9e3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2018-06-1-beb61f709568.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2018-06-1-beb61f709568.json",
+      "bytes": 25472,
+      "sha256": "380ced6fce05e09edd62da221a6c22f13586b2a5b222808914fc71112689d20b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2018-06-1-beb61f709568.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-a8499e0b41f7633d1b616c6f39860e50c4137357bd7ff3a402458ff584aa63b2.pdf",
+      "bytes": 353881,
+      "sha256": "a8499e0b41f7633d1b616c6f39860e50c4137357bd7ff3a402458ff584aa63b2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/a8499e0b41f7633d1b616c6f39860e50c4137357bd7ff3a402458ff584aa63b2.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2018-06-2-7df78062e1b5.json",
+      "bytes": 49204,
+      "sha256": "05154fed666729e9b7a3e2201adc4dcad4e3c17c6b5bacfdae87729e2f726e20",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2018-06-2-7df78062e1b5.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2018-06-2-7df78062e1b5.json",
+      "bytes": 23870,
+      "sha256": "717700355c561f3041cc36b9771038371fecf8f208226c6783250472ecaa4f83",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2018-06-2-7df78062e1b5.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-b7a7f14c09497b37b5ac5e180a476c45cd83528de0be6ba52db7e71608f959c4.pdf",
+      "bytes": 357075,
+      "sha256": "b7a7f14c09497b37b5ac5e180a476c45cd83528de0be6ba52db7e71608f959c4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/b7a7f14c09497b37b5ac5e180a476c45cd83528de0be6ba52db7e71608f959c4.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2018-06-3-7f21a9ee71c4.json",
+      "bytes": 52425,
+      "sha256": "a7e94560cffe32e67c49caffe64a1d91541dd818169a0ec6fc23d9f28c9ebecf",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2018-06-3-7f21a9ee71c4.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2018-06-3-7f21a9ee71c4.json",
+      "bytes": 25464,
+      "sha256": "ee838442eea89383451f5143676563e951aeab4d4aa75804a57ba71691b623b6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2018-06-3-7f21a9ee71c4.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-e437f2304eab4780bea185a804162df1cba7bf63fd7dbcb8b34b5ad6ca702b59.pdf",
+      "bytes": 354683,
+      "sha256": "e437f2304eab4780bea185a804162df1cba7bf63fd7dbcb8b34b5ad6ca702b59",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/e437f2304eab4780bea185a804162df1cba7bf63fd7dbcb8b34b5ad6ca702b59.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2018-12-1-fce5edd6de20.json",
+      "bytes": 45070,
+      "sha256": "dfe5cd31e9bca88aede1745748589aaecdf44b7214cc53856c0f5b3b37d36ca5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2018-12-1-fce5edd6de20.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2018-12-1-fce5edd6de20.json",
+      "bytes": 24386,
+      "sha256": "cac70c403c49f49a84244faef6688701ac67f6b82e65e93c84914736bc4b3ed0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2018-12-1-fce5edd6de20.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-56a829539828a0c4eaceb53c72468a5a2eeb64b559ce500ce1f49e13bb97c7dd.pdf",
+      "bytes": 368610,
+      "sha256": "56a829539828a0c4eaceb53c72468a5a2eeb64b559ce500ce1f49e13bb97c7dd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/56a829539828a0c4eaceb53c72468a5a2eeb64b559ce500ce1f49e13bb97c7dd.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2018-12-2-627e60f8f718.json",
+      "bytes": 52018,
+      "sha256": "723ca3c7cc14e62f1a8e4d71c9fb3ac760d3476250654f7c71b5f9a71411dc06",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2018-12-2-627e60f8f718.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2018-12-2-627e60f8f718.json",
+      "bytes": 24688,
+      "sha256": "45182e2d446b7e7ca5785dd5e5bc289762c2c6764ce002b66873ec4c63b9794d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2018-12-2-627e60f8f718.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-25f486ac290f871231ba0b7c40a265d88dd056044061c60a3585d322a4998400.pdf",
+      "bytes": 352923,
+      "sha256": "25f486ac290f871231ba0b7c40a265d88dd056044061c60a3585d322a4998400",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/25f486ac290f871231ba0b7c40a265d88dd056044061c60a3585d322a4998400.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2018-12-3-47dbc21ce55c.json",
+      "bytes": 64414,
+      "sha256": "831c1485692510e4d31b78ea42caeb7f8ab1af3b3bbc5d77077fbb26c9f6856e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2018-12-3-47dbc21ce55c.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2018-12-3-47dbc21ce55c.json",
+      "bytes": 24564,
+      "sha256": "54039d80ecd2898b2b353b4b5907e5bdc5fc08735cc7fb00a5a73beff856ff79",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2018-12-3-47dbc21ce55c.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-255ae7829726e10324f31e940e9eb15377c83bf26ac52b93f6c1f8da3a8f3da2.pdf",
+      "bytes": 363097,
+      "sha256": "255ae7829726e10324f31e940e9eb15377c83bf26ac52b93f6c1f8da3a8f3da2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/255ae7829726e10324f31e940e9eb15377c83bf26ac52b93f6c1f8da3a8f3da2.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2019-06-1-91828026dc1e.json",
+      "bytes": 46919,
+      "sha256": "fc9bbb09e79ff5d6c2206fb5b922da0161fd56af244883a1e0d1a574a133c955",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2019-06-1-91828026dc1e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2019-06-1-91828026dc1e.json",
+      "bytes": 25184,
+      "sha256": "82758d94f94ae39d53b20bedc81035c3ebbbaa7e3073f4463ad2eee654a5bb41",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2019-06-1-91828026dc1e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-c6118f0917a92c0cd19158b699a510bf5f3442fd4dbb7c751dac2228f60e9e13.pdf",
+      "bytes": 356872,
+      "sha256": "c6118f0917a92c0cd19158b699a510bf5f3442fd4dbb7c751dac2228f60e9e13",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/c6118f0917a92c0cd19158b699a510bf5f3442fd4dbb7c751dac2228f60e9e13.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2019-06-2-5fed71b79392.json",
+      "bytes": 53624,
+      "sha256": "bdfc3cd5ceb7816c73c92651044c484454212a4091d5a4a9e96b30f47ccd10eb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2019-06-2-5fed71b79392.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2019-06-2-5fed71b79392.json",
+      "bytes": 24360,
+      "sha256": "96702d4c1d7b06477d07753d53ddbd5f0e45a37031b55bccbb85376802b9121a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2019-06-2-5fed71b79392.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-837c14517dc1e2dfe1a44acbc569412c337e5ee99a79d5fd17246f36c3740009.pdf",
+      "bytes": 372197,
+      "sha256": "837c14517dc1e2dfe1a44acbc569412c337e5ee99a79d5fd17246f36c3740009",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/837c14517dc1e2dfe1a44acbc569412c337e5ee99a79d5fd17246f36c3740009.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2019-06-3-3fa90cdf100e.json",
+      "bytes": 51142,
+      "sha256": "a0f7bd6f6fe7a30b909f5a1854cb3ec6942b15af22f0649f02389f4d1c985876",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2019-06-3-3fa90cdf100e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2019-06-3-3fa90cdf100e.json",
+      "bytes": 25494,
+      "sha256": "3262c4406d08a4b22d703859eafa6fd87e705cffed81c8cb27ccfd03c22eb1d3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2019-06-3-3fa90cdf100e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-3caf5d5bd81bd7ae37bd5e549de958308a09984d7ebf2081434f033593951eb7.pdf",
+      "bytes": 353871,
+      "sha256": "3caf5d5bd81bd7ae37bd5e549de958308a09984d7ebf2081434f033593951eb7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/3caf5d5bd81bd7ae37bd5e549de958308a09984d7ebf2081434f033593951eb7.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2019-12-1-7130f41241e3.json",
+      "bytes": 49749,
+      "sha256": "62092bb05e344a82e3e0fac91423a90c15b14a6411fb19ab5ddae6d1cc8b0720",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2019-12-1-7130f41241e3.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2019-12-1-7130f41241e3.json",
+      "bytes": 25858,
+      "sha256": "09356a4c0b2fa11fc5d77d391915021342814cb4c818003484c44f46c5c42ad1",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2019-12-1-7130f41241e3.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-c77db7b78b6c065ee82e8315aab8efe86d80492bc7b95c6197f6755fa242e2ff.pdf",
+      "bytes": 378326,
+      "sha256": "c77db7b78b6c065ee82e8315aab8efe86d80492bc7b95c6197f6755fa242e2ff",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/c77db7b78b6c065ee82e8315aab8efe86d80492bc7b95c6197f6755fa242e2ff.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2019-12-2-a6b9551fbe08.json",
+      "bytes": 54515,
+      "sha256": "d424a383223a7de05af378b709ac6cf3baffee52f7bc42c78b3bbb597292066d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2019-12-2-a6b9551fbe08.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2019-12-2-a6b9551fbe08.json",
+      "bytes": 25670,
+      "sha256": "d17b080146e36611767631c3082320e3f47be116d9fff1124cffe94f98ca03ab",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2019-12-2-a6b9551fbe08.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-7d4b4ad07317043d7f3c60e3e982ceb56953e89eab981e1f0f1805e8e9f472ba.pdf",
+      "bytes": 337111,
+      "sha256": "7d4b4ad07317043d7f3c60e3e982ceb56953e89eab981e1f0f1805e8e9f472ba",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/7d4b4ad07317043d7f3c60e3e982ceb56953e89eab981e1f0f1805e8e9f472ba.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2019-12-3-0e9435545ef9.json",
+      "bytes": 46303,
+      "sha256": "e08204e7052c78152ba7b4df55310ff3bc7749e45eb6ee189b2427b199d1ca52",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2019-12-3-0e9435545ef9.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2019-12-3-0e9435545ef9.json",
+      "bytes": 24604,
+      "sha256": "42a014ff43ee22460ec1adbb777ce907f48c333878628f9d099303dd0424ea52",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2019-12-3-0e9435545ef9.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-903910c955c5cadb5d340ebe24cb0abb93487149f9080b834ce7fddfc25c60f8.pdf",
+      "bytes": 363332,
+      "sha256": "903910c955c5cadb5d340ebe24cb0abb93487149f9080b834ce7fddfc25c60f8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/903910c955c5cadb5d340ebe24cb0abb93487149f9080b834ce7fddfc25c60f8.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2020-07-1-7cd2a254d488.json",
+      "bytes": 46794,
+      "sha256": "250cf0b0557867dd20dd210682bb3f42720cf03cda0f3de94b3993ee31e977f5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2020-07-1-7cd2a254d488.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2020-07-1-7cd2a254d488.json",
+      "bytes": 25114,
+      "sha256": "945e5f9b62ac4f1878b7e9fc6f5d399a3f4374d31f5f0aafdc50ecf3b779ac8f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2020-07-1-7cd2a254d488.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-cf37aa29c87014bd14c300b2255d930303e4660c4f2ff4ac429df0864bc4353f.pdf",
+      "bytes": 357913,
+      "sha256": "cf37aa29c87014bd14c300b2255d930303e4660c4f2ff4ac429df0864bc4353f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/cf37aa29c87014bd14c300b2255d930303e4660c4f2ff4ac429df0864bc4353f.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2020-09-1-4f73711fce2e.json",
+      "bytes": 51189,
+      "sha256": "eb5f00afe6527a26849c057b0dbde5a6370ff81bfd47e304b266607a03be6b39",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2020-09-1-4f73711fce2e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2020-09-1-4f73711fce2e.json",
+      "bytes": 26174,
+      "sha256": "f067013651905311b79f70e3b82e8cf6b8371de15f11de83b3daa7d272a39f44",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2020-09-1-4f73711fce2e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-efe9d77f9a5546374385fd2ed21f41d528937531b12a641b14d550d6b07d8b3b.pdf",
+      "bytes": 350970,
+      "sha256": "efe9d77f9a5546374385fd2ed21f41d528937531b12a641b14d550d6b07d8b3b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/efe9d77f9a5546374385fd2ed21f41d528937531b12a641b14d550d6b07d8b3b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2020-09-2-708aaf3f1bcd.json",
+      "bytes": 46501,
+      "sha256": "2931efd2708c4d1ec9fa763db49d484ef0e2d4498517e92a265eb06cb85a9fd7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2020-09-2-708aaf3f1bcd.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2020-09-2-708aaf3f1bcd.json",
+      "bytes": 25706,
+      "sha256": "6b91613ba1cd3a26551dbbb980ce16c01ebf010c7f161253ac425c71f3de7af8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2020-09-2-708aaf3f1bcd.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-8868ea315d275dac5c0d7b680c305e078969884246258adc995a115c4fbe0580.pdf",
+      "bytes": 232015,
+      "sha256": "8868ea315d275dac5c0d7b680c305e078969884246258adc995a115c4fbe0580",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/8868ea315d275dac5c0d7b680c305e078969884246258adc995a115c4fbe0580.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2020-09-3-2e13059333ab.json",
+      "bytes": 2042,
+      "sha256": "072d618481f660e3c82e7a0f0f62e09b229425dcccda9b648ce60181f85c294c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2020-09-3-2e13059333ab.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-3e789b12214a0a5a9842a6a39910430190a7a3e25369c6b70b3d4382e589f9c5.pdf",
+      "bytes": 390381,
+      "sha256": "3e789b12214a0a5a9842a6a39910430190a7a3e25369c6b70b3d4382e589f9c5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/3e789b12214a0a5a9842a6a39910430190a7a3e25369c6b70b3d4382e589f9c5.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2020-12-1-6571f2b547a1.json",
+      "bytes": 48302,
+      "sha256": "86212364b4e66a1484c281a18cb8c0cef8184337e4a90ef0ee8c05c20857cbc9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2020-12-1-6571f2b547a1.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2020-12-1-6571f2b547a1.json",
+      "bytes": 25154,
+      "sha256": "2087ed13d75f1ef97a8807d03b3b00cf2b93296cdeeba37d712fc8492978d88c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2020-12-1-6571f2b547a1.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-80b12b452a202f9528738424c3fdca3296b0233a776f56e48552a2b7c7902265.pdf",
+      "bytes": 317859,
+      "sha256": "80b12b452a202f9528738424c3fdca3296b0233a776f56e48552a2b7c7902265",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/80b12b452a202f9528738424c3fdca3296b0233a776f56e48552a2b7c7902265.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2020-12-2-035edab6fc88.json",
+      "bytes": 51096,
+      "sha256": "00073b6f1e7790b0b89c2f01a64680739cde5f4be76d5737afe76ead87964272",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2020-12-2-035edab6fc88.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2020-12-2-035edab6fc88.json",
+      "bytes": 25788,
+      "sha256": "38c4462ccea4e48fc697695a268ddb4705d29000bd07e3945c979fdc3a60e3dc",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2020-12-2-035edab6fc88.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-60d251213303e6aa7b738eb066aa52da58718d72cf2bdb8f6a3c2dc682353153.pdf",
+      "bytes": 320433,
+      "sha256": "60d251213303e6aa7b738eb066aa52da58718d72cf2bdb8f6a3c2dc682353153",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/60d251213303e6aa7b738eb066aa52da58718d72cf2bdb8f6a3c2dc682353153.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2020-12-3-f167f7351e25.json",
+      "bytes": 51126,
+      "sha256": "032037d93d076dd99d01a504f91064a9f6ff93ea8e6c2bdc1965a1b72ecc0450",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2020-12-3-f167f7351e25.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2020-12-3-f167f7351e25.json",
+      "bytes": 24482,
+      "sha256": "44293f342e1f5f4b2cc666ad7eeb790e448ce5d9119a89f59d258f18ed89dba4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2020-12-3-f167f7351e25.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d492861c21b21f1953b35815bc094f6cdcb40215738def66792b9789574b72cb.pdf",
+      "bytes": 383145,
+      "sha256": "d492861c21b21f1953b35815bc094f6cdcb40215738def66792b9789574b72cb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d492861c21b21f1953b35815bc094f6cdcb40215738def66792b9789574b72cb.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2021-06-1-b6c673ccdc0b.json",
+      "bytes": 49463,
+      "sha256": "39d0bc305e4157d31f73592785db2feb9f922c63d573a199876e5e9212e36bb6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2021-06-1-b6c673ccdc0b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2021-06-1-b6c673ccdc0b.json",
+      "bytes": 25702,
+      "sha256": "8d45d870a5670d47892d6d8d126b94afa29d3bcfd6bc819386d104bb45742e3d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2021-06-1-b6c673ccdc0b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-60fcd11f13ba3c815a8b45c74460ca19095ef76795cc16c62966d60711345fbf.pdf",
+      "bytes": 389350,
+      "sha256": "60fcd11f13ba3c815a8b45c74460ca19095ef76795cc16c62966d60711345fbf",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/60fcd11f13ba3c815a8b45c74460ca19095ef76795cc16c62966d60711345fbf.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2021-06-2-d9da605b6505.json",
+      "bytes": 46834,
+      "sha256": "3c58bbe5e110b060ca431b79073e3e1087e4e17be931997bf9baca1b54d99cea",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2021-06-2-d9da605b6505.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2021-06-2-d9da605b6505.json",
+      "bytes": 26290,
+      "sha256": "72c58e1d1a483e3e40e4e3d1db36cebcb0dcbb100f75daf771d8715c509e7192",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2021-06-2-d9da605b6505.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-92263873740b74480e1c0758b93b7f01b555b92fc88fb54308f398d6fd7cdf41.pdf",
+      "bytes": 325635,
+      "sha256": "92263873740b74480e1c0758b93b7f01b555b92fc88fb54308f398d6fd7cdf41",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/92263873740b74480e1c0758b93b7f01b555b92fc88fb54308f398d6fd7cdf41.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2021-06-3-53cd6607cd32.json",
+      "bytes": 47275,
+      "sha256": "ee5d4f4a9d38a261ec29d31dd5c4db3663ec9a4a20d289b7f61c8a8bc32050a5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2021-06-3-53cd6607cd32.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2021-06-3-53cd6607cd32.json",
+      "bytes": 24908,
+      "sha256": "2bd5dc37d0733cadd617362ae15a12b0962eb09bb4b66d65a8beacd44b6585e1",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2021-06-3-53cd6607cd32.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d923ec6a4c79bdf7bf67530a1da34544ac1a9f00834df7f18bd870141f01d8c2.pdf",
+      "bytes": 342657,
+      "sha256": "d923ec6a4c79bdf7bf67530a1da34544ac1a9f00834df7f18bd870141f01d8c2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d923ec6a4c79bdf7bf67530a1da34544ac1a9f00834df7f18bd870141f01d8c2.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2021-12-1-7c44d49068ea.json",
+      "bytes": 51112,
+      "sha256": "c012ca052ce9039bb0a43f219bd667ff59742dcfd3065c0da98f65a93e7cd995",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2021-12-1-7c44d49068ea.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2021-12-1-7c44d49068ea.json",
+      "bytes": 25278,
+      "sha256": "dffe2dda250bc5b91954b7160445ff46779948b6b1cb2eff9af18680fc43eaad",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2021-12-1-7c44d49068ea.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-374aeb1e12fb50fb0c16d40a14e549d0c35904ebf8b49470806f8ffe0e56a063.pdf",
+      "bytes": 354614,
+      "sha256": "374aeb1e12fb50fb0c16d40a14e549d0c35904ebf8b49470806f8ffe0e56a063",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/374aeb1e12fb50fb0c16d40a14e549d0c35904ebf8b49470806f8ffe0e56a063.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2021-12-2-798691fa7d82.json",
+      "bytes": 44031,
+      "sha256": "a5454936455694695762ca4e8197e823783932a81f3de8c3973e7c82a3b89c3a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2021-12-2-798691fa7d82.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2021-12-2-798691fa7d82.json",
+      "bytes": 25304,
+      "sha256": "fa9be11a66a165e3fdd851eff04ecace6221b59656b88c271233d83567786342",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2021-12-2-798691fa7d82.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d00adeb803d70477a6538e091ef30b3aabfbf20013a3a6fdfebdf9e7d301b7f9.pdf",
+      "bytes": 337238,
+      "sha256": "d00adeb803d70477a6538e091ef30b3aabfbf20013a3a6fdfebdf9e7d301b7f9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d00adeb803d70477a6538e091ef30b3aabfbf20013a3a6fdfebdf9e7d301b7f9.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2021-12-3-d739b9806f30.json",
+      "bytes": 47487,
+      "sha256": "3b240e4640775672d5a3afec9d940a2e998fc5618fea42c8742afbd265eeda8a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2021-12-3-d739b9806f30.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2021-12-3-d739b9806f30.json",
+      "bytes": 24624,
+      "sha256": "2b5e1a234a35d48e0fcb64061a6cb4c6c427d58968c991c6cd071a3e07862182",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2021-12-3-d739b9806f30.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-f7319eed42432815995ca74156105b73922364e8f6524b473d06ed8472121cb8.pdf",
+      "bytes": 321391,
+      "sha256": "f7319eed42432815995ca74156105b73922364e8f6524b473d06ed8472121cb8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/f7319eed42432815995ca74156105b73922364e8f6524b473d06ed8472121cb8.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-06-1-e2bd2c0370bc.json",
+      "bytes": 49380,
+      "sha256": "c5ae6da93a8e9d2942e281c402054791cfae0958c1181bfe7b2e7da8aa2dbe59",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-06-1-e2bd2c0370bc.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2022-06-1-e2bd2c0370bc.json",
+      "bytes": 25306,
+      "sha256": "6951abff0917d2f961c96d75a19cf6608dc9fa6f1fcc27fa35c02fbdb34e9a62",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2022-06-1-e2bd2c0370bc.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-3d1cdb6a060bded07de824752b1910f1f6c24138ddab2431f952522075cc3482.pdf",
+      "bytes": 324374,
+      "sha256": "3d1cdb6a060bded07de824752b1910f1f6c24138ddab2431f952522075cc3482",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/3d1cdb6a060bded07de824752b1910f1f6c24138ddab2431f952522075cc3482.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-06-2-83440f18e056.json",
+      "bytes": 48885,
+      "sha256": "7a367e7c3530b35e1ab5ce7589cace25204c91180a69be0acc07b9f70a5f7ffa",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-06-2-83440f18e056.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2022-06-2-83440f18e056.json",
+      "bytes": 24630,
+      "sha256": "85b6cd3c0d312c338aaa0718076faf24d23de8705d4883130effdf7202690e84",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2022-06-2-83440f18e056.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-6ae499f7f6219f3992f5e3ec4178e98c196a063b61addbe31382415126dd1fda.pdf",
+      "bytes": 230581,
+      "sha256": "6ae499f7f6219f3992f5e3ec4178e98c196a063b61addbe31382415126dd1fda",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/6ae499f7f6219f3992f5e3ec4178e98c196a063b61addbe31382415126dd1fda.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-06-3-1cca06b9125b.json",
+      "bytes": 2042,
+      "sha256": "fdea261eb0402040a178a3501460334fbf03563683b9091847bdbb7cab3dabc7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-06-3-1cca06b9125b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-0fdcd2c46c4f56390e1b1c122edb6ecfe8e897d82b237bace043216786a47f5b.pdf",
+      "bytes": 377423,
+      "sha256": "0fdcd2c46c4f56390e1b1c122edb6ecfe8e897d82b237bace043216786a47f5b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/0fdcd2c46c4f56390e1b1c122edb6ecfe8e897d82b237bace043216786a47f5b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-09-1-e22d6782ab0a.json",
+      "bytes": 51397,
+      "sha256": "591e3cbee18bbc3cb19f619ebcc657d05a636a850761da6e7e8691a227c2e8e2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-09-1-e22d6782ab0a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2022-09-1-e22d6782ab0a.json",
+      "bytes": 25954,
+      "sha256": "5ffe1f5c85d7c6e25d7e9960c93166cb678189cdfc2dba119747fe2ac935df06",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2022-09-1-e22d6782ab0a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-0e4afa4541a50bafaea38645c9413d1b3a92ec78451715111859caebbf0c2bcc.pdf",
+      "bytes": 237690,
+      "sha256": "0e4afa4541a50bafaea38645c9413d1b3a92ec78451715111859caebbf0c2bcc",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/0e4afa4541a50bafaea38645c9413d1b3a92ec78451715111859caebbf0c2bcc.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-09-2-0fdc49e12366.json",
+      "bytes": 2042,
+      "sha256": "51199bf33223e75450f5ca552566d3f4983cfe0da62805cf09296803729cc63a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-09-2-0fdc49e12366.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-8e0622de97b285459cd7f044d36b98b2afcdb28e38f2652650ff4ba7e9cd8863.pdf",
+      "bytes": 237370,
+      "sha256": "8e0622de97b285459cd7f044d36b98b2afcdb28e38f2652650ff4ba7e9cd8863",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/8e0622de97b285459cd7f044d36b98b2afcdb28e38f2652650ff4ba7e9cd8863.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-09-3-11176eb4000f.json",
+      "bytes": 2042,
+      "sha256": "46de69d28025ed4d3b5e6e9eab26944bf0d95db3c8ed50627581596a68295049",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-09-3-11176eb4000f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-895d4e370dd25158025ad497b46d1a02b2889c02987abe08a0f3dea5735fc5db.pdf",
+      "bytes": 338793,
+      "sha256": "895d4e370dd25158025ad497b46d1a02b2889c02987abe08a0f3dea5735fc5db",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/895d4e370dd25158025ad497b46d1a02b2889c02987abe08a0f3dea5735fc5db.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-12-1-d26e74d548e5.json",
+      "bytes": 44147,
+      "sha256": "ba4a7704c428c8197c5ecacfb57f36c69d6143b4cd6c21646aab037373f4137d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-12-1-d26e74d548e5.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2022-12-1-d26e74d548e5.json",
+      "bytes": 25006,
+      "sha256": "60a117d481fb2fe2374f5b7a1c2368a19f4d6983feffa8a2c2bcb5878c96523a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2022-12-1-d26e74d548e5.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-562c349df0891803f90cc1bc41be4b17fffe6189ada9d1ec6233a704f6970d09.pdf",
+      "bytes": 330226,
+      "sha256": "562c349df0891803f90cc1bc41be4b17fffe6189ada9d1ec6233a704f6970d09",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/562c349df0891803f90cc1bc41be4b17fffe6189ada9d1ec6233a704f6970d09.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-12-2-6cdd9364439d.json",
+      "bytes": 44424,
+      "sha256": "96db9d448f6a5859f92f58a402e633268e85dafe8cd41e5a2919ea379026297b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-12-2-6cdd9364439d.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2022-12-2-6cdd9364439d.json",
+      "bytes": 24230,
+      "sha256": "aa208d85bb14ea8a353db7249f28f92ba781ff6a8024a9a6846d42e340b75c64",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2022-12-2-6cdd9364439d.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-6d8ee706f46bbf32d97a4b36c70d7c0a44fa462a0a3354695cf944a28e92d693.pdf",
+      "bytes": 358123,
+      "sha256": "6d8ee706f46bbf32d97a4b36c70d7c0a44fa462a0a3354695cf944a28e92d693",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/6d8ee706f46bbf32d97a4b36c70d7c0a44fa462a0a3354695cf944a28e92d693.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2022-12-3-3e0bd2848aaf.json",
+      "bytes": 48307,
+      "sha256": "878923861143e696a0031a3c1f3e93e733ec83476af1c3afce5e946561a83905",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2022-12-3-3e0bd2848aaf.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2022-12-3-3e0bd2848aaf.json",
+      "bytes": 25364,
+      "sha256": "f00293babb6c579c7e2a500416ab504c9af28082d7db6fbee9a30111bf73e363",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2022-12-3-3e0bd2848aaf.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-eeb7c2bb3fe73fd844a0e80f672392c8e7b33287dea4b5c15f7404fb86db061f.pdf",
+      "bytes": 329864,
+      "sha256": "eeb7c2bb3fe73fd844a0e80f672392c8e7b33287dea4b5c15f7404fb86db061f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/eeb7c2bb3fe73fd844a0e80f672392c8e7b33287dea4b5c15f7404fb86db061f.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-03-1-7556edc19f83.json",
+      "bytes": 42151,
+      "sha256": "9fa54b4c434adfe685878bdb1f9752ffa5a075fa6f082bfdab673d325efc2469",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-03-1-7556edc19f83.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2023-03-1-7556edc19f83.json",
+      "bytes": 24172,
+      "sha256": "8baf580c275e336a52fb8b99d1547282e4b3a46ba5c3a5dbaa11963442c1a2b9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2023-03-1-7556edc19f83.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-e8ece465a8bab99497c7f529f8b08f2b7bad73daf1a7adbfe063187aef741acf.pdf",
+      "bytes": 234171,
+      "sha256": "e8ece465a8bab99497c7f529f8b08f2b7bad73daf1a7adbfe063187aef741acf",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/e8ece465a8bab99497c7f529f8b08f2b7bad73daf1a7adbfe063187aef741acf.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-03-2-078f0b4c6a6d.json",
+      "bytes": 2042,
+      "sha256": "3018ff779b76286a40945b7dfeb325f9a13b8e6428b8130021a3eb4d2d7dc945",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-03-2-078f0b4c6a6d.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-22afbe111a9787b53a57bcf9547b0b3e628e50c91344f6a6d0975fda0131d39b.pdf",
+      "bytes": 233752,
+      "sha256": "22afbe111a9787b53a57bcf9547b0b3e628e50c91344f6a6d0975fda0131d39b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/22afbe111a9787b53a57bcf9547b0b3e628e50c91344f6a6d0975fda0131d39b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-03-3-e9d6327fba5a.json",
+      "bytes": 2042,
+      "sha256": "652bdfc4d6c0532d0439a7c26a0d76c9cf6ce607336d25e3924a267db9dc634f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-03-3-e9d6327fba5a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-12d6e5fd8c806f8c1cd5c409a3579f70bc2f76ac3126f4f33e9986bd99fe4c99.pdf",
+      "bytes": 336470,
+      "sha256": "12d6e5fd8c806f8c1cd5c409a3579f70bc2f76ac3126f4f33e9986bd99fe4c99",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/12d6e5fd8c806f8c1cd5c409a3579f70bc2f76ac3126f4f33e9986bd99fe4c99.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-06-1-9cbbbba3ccfe.json",
+      "bytes": 46432,
+      "sha256": "2c20d542bd458d735db297aebaa5ce08771c81f37f41621698fe33fda6a8841b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-06-1-9cbbbba3ccfe.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2023-06-1-9cbbbba3ccfe.json",
+      "bytes": 25490,
+      "sha256": "82735d781a6fc56e055f26f2d04358eb27c5f6901d27ca19df8f86b31add8be4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2023-06-1-9cbbbba3ccfe.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-7690c7b269908df153ced2f01bc50251888a59702f43df98e223931146480e16.pdf",
+      "bytes": 358931,
+      "sha256": "7690c7b269908df153ced2f01bc50251888a59702f43df98e223931146480e16",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/7690c7b269908df153ced2f01bc50251888a59702f43df98e223931146480e16.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-06-2-e477a628b36f.json",
+      "bytes": 46574,
+      "sha256": "758d78bd31d51d233de9995d753e9eead66203daed38324cfb958845c06a32d9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-06-2-e477a628b36f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2023-06-2-e477a628b36f.json",
+      "bytes": 25172,
+      "sha256": "914af7c1885edddbe335d53bb78c4e8f7bcfb8a543096591194f444af72e709b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2023-06-2-e477a628b36f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-25d5ba4aaba415db92a4e9399255009131f1c7481d94701a985f71088b43ae2a.pdf",
+      "bytes": 369530,
+      "sha256": "25d5ba4aaba415db92a4e9399255009131f1c7481d94701a985f71088b43ae2a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/25d5ba4aaba415db92a4e9399255009131f1c7481d94701a985f71088b43ae2a.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-06-3-003951325588.json",
+      "bytes": 44052,
+      "sha256": "0d36645b2eae54780ff902fbefe6e1eda5375968ea2d30a40653225b002bb7cc",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-06-3-003951325588.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2023-06-3-003951325588.json",
+      "bytes": 24972,
+      "sha256": "2d7b77ffa04e655935b724d7a288be325b2b8c097514c1244736141fbe6bdc98",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2023-06-3-003951325588.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-686efbd0d74272605cb66247558e622722896da0fc18901b4936cb33d569eb7b.pdf",
+      "bytes": 375146,
+      "sha256": "686efbd0d74272605cb66247558e622722896da0fc18901b4936cb33d569eb7b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/686efbd0d74272605cb66247558e622722896da0fc18901b4936cb33d569eb7b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-12-1-fad972cb7c4e.json",
+      "bytes": 52305,
+      "sha256": "0dc4b24a98ff717b1afe1a710cf31a9f57789bff7545340aadf4919d1e21514b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-12-1-fad972cb7c4e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2023-12-1-fad972cb7c4e.json",
+      "bytes": 26332,
+      "sha256": "30132644327c2bbec69900f2a6dc2f961d9cdf45a508dbd911b481278a0c3097",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2023-12-1-fad972cb7c4e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-509a8eccbd8d3c53616245eba0aa08106433d109e53f26c1a11edc32d88ebb55.pdf",
+      "bytes": 354374,
+      "sha256": "509a8eccbd8d3c53616245eba0aa08106433d109e53f26c1a11edc32d88ebb55",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/509a8eccbd8d3c53616245eba0aa08106433d109e53f26c1a11edc32d88ebb55.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-12-2-e3f6fb454b72.json",
+      "bytes": 53654,
+      "sha256": "b38645df72606ac21daa563ba55afa4334a119be2cdd4e2155e834e0b87cf108",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-12-2-e3f6fb454b72.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2023-12-2-e3f6fb454b72.json",
+      "bytes": 25864,
+      "sha256": "7c90f2fba3a0e81c2da82b68330c8af1ea4e62cd6896aecc695152be29eff7c4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2023-12-2-e3f6fb454b72.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ffdff2636394e3f40dffa6cb5243a798a6705dd1ac90cff3267c2a9a611b5a93.pdf",
+      "bytes": 329616,
+      "sha256": "ffdff2636394e3f40dffa6cb5243a798a6705dd1ac90cff3267c2a9a611b5a93",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ffdff2636394e3f40dffa6cb5243a798a6705dd1ac90cff3267c2a9a611b5a93.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2023-12-3-50fa6d518175.json",
+      "bytes": 45147,
+      "sha256": "e64c3a078bbc39446bde298bd5919c4e156ed21cbbb679be9bfb13af9609eaa5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2023-12-3-50fa6d518175.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2023-12-3-50fa6d518175.json",
+      "bytes": 25270,
+      "sha256": "38143108e5fd3271f55275d852bd93f7f7a41b8715c2eec2ad5db6a174ac877b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2023-12-3-50fa6d518175.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d7319e191a63fee266bd28ce3c299ea56e499ff632284693215175a6b433ecfd.pdf",
+      "bytes": 357373,
+      "sha256": "d7319e191a63fee266bd28ce3c299ea56e499ff632284693215175a6b433ecfd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d7319e191a63fee266bd28ce3c299ea56e499ff632284693215175a6b433ecfd.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2024-06-1-dbfbbe135b47.json",
+      "bytes": 54755,
+      "sha256": "37a075672c1711bc376ba0759086fa01d5b9505092da321451537526508c1f0f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2024-06-1-dbfbbe135b47.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2024-06-1-dbfbbe135b47.json",
+      "bytes": 24944,
+      "sha256": "d39e428f121e0dbf97e43327dac58e736b14acd4ba1840091e94dfd3c4078d3f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2024-06-1-dbfbbe135b47.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-93daf5adf57c9990f1ba7bf0b216dabd88e9923b257f5c34a7149e826b87e9aa.pdf",
+      "bytes": 360694,
+      "sha256": "93daf5adf57c9990f1ba7bf0b216dabd88e9923b257f5c34a7149e826b87e9aa",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/93daf5adf57c9990f1ba7bf0b216dabd88e9923b257f5c34a7149e826b87e9aa.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2024-06-2-441052e26638.json",
+      "bytes": 48989,
+      "sha256": "3be2d09773449221cd5b09723a764a28aec3c411b0d9d1c6d41716aad497b07e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2024-06-2-441052e26638.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2024-06-2-441052e26638.json",
+      "bytes": 24750,
+      "sha256": "d1d33c0332360ed19e7ce67f5380f169bb8ce98f9e064f3fda125c36edc744d6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2024-06-2-441052e26638.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-33d02b86d4eb365063e030d57ab64bfe25b92402ee1ebda56d93cdfe9f634e35.pdf",
+      "bytes": 324533,
+      "sha256": "33d02b86d4eb365063e030d57ab64bfe25b92402ee1ebda56d93cdfe9f634e35",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/33d02b86d4eb365063e030d57ab64bfe25b92402ee1ebda56d93cdfe9f634e35.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2024-06-3-c7225429a844.json",
+      "bytes": 50869,
+      "sha256": "ddfd931e785aaa85459195603b0b09b42dfb4cc9f25a8b5847e29116af7abcb0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2024-06-3-c7225429a844.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2024-06-3-c7225429a844.json",
+      "bytes": 25474,
+      "sha256": "6d67f3dd4a25993ddb97c17015f1c9ee1dffa2b8579e9c2cdaef8512fd2e7d43",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2024-06-3-c7225429a844.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-963815517abe40a8547255cfe57f5237db0f89f6c433a29e9c6827153c51f9e2.pdf",
+      "bytes": 351228,
+      "sha256": "963815517abe40a8547255cfe57f5237db0f89f6c433a29e9c6827153c51f9e2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/963815517abe40a8547255cfe57f5237db0f89f6c433a29e9c6827153c51f9e2.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2024-12-1-e34f4284c55b.json",
+      "bytes": 57457,
+      "sha256": "cc83d324dd23ea661aad03b601f86ca220df4cea33910011eb22d39de76cbe1a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2024-12-1-e34f4284c55b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2024-12-1-e34f4284c55b.json",
+      "bytes": 25892,
+      "sha256": "75e640812dfc288e0b39e04af103d991b4ecf57bd8ccbcbfa6045b0ca30a92dd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2024-12-1-e34f4284c55b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-2b421e2f8c510036047c5daba828d1f55e5ae6b53e167023411122e81edae387.pdf",
+      "bytes": 333041,
+      "sha256": "2b421e2f8c510036047c5daba828d1f55e5ae6b53e167023411122e81edae387",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/2b421e2f8c510036047c5daba828d1f55e5ae6b53e167023411122e81edae387.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2024-12-2-6d8eca474a13.json",
+      "bytes": 46861,
+      "sha256": "976e4625da059b26d86b2f3e4acb4ad07f94c8b018858d9ff0b4d5e43fdb144b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2024-12-2-6d8eca474a13.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2024-12-2-6d8eca474a13.json",
+      "bytes": 25164,
+      "sha256": "c2d49270b18d9b3c452cf57532899204c15bd4550a8c29ca23dd45257c6737a5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2024-12-2-6d8eca474a13.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d0068a18fbaf0ff47834b88ffe990d58804e545f1f23c243503d0c7d38dc076b.pdf",
+      "bytes": 331982,
+      "sha256": "d0068a18fbaf0ff47834b88ffe990d58804e545f1f23c243503d0c7d38dc076b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d0068a18fbaf0ff47834b88ffe990d58804e545f1f23c243503d0c7d38dc076b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2024-12-3-86aa4fd7740a.json",
+      "bytes": 47134,
+      "sha256": "0c4112b200eaad777de47b6f7b69dbf503c35012109061dd9d0029c94e1da842",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2024-12-3-86aa4fd7740a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2024-12-3-86aa4fd7740a.json",
+      "bytes": 24900,
+      "sha256": "650e07d2602602ed869b3c7056a28721884470ad6aeeda7f8469bb09c4d037f0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2024-12-3-86aa4fd7740a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-6c499444cf8576f183517c46de0f2e876d2b0e25cb7aaf03270d2730b06d655f.pdf",
+      "bytes": 337264,
+      "sha256": "6c499444cf8576f183517c46de0f2e876d2b0e25cb7aaf03270d2730b06d655f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/6c499444cf8576f183517c46de0f2e876d2b0e25cb7aaf03270d2730b06d655f.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2025-06-1-837431a47e54.json",
+      "bytes": 47886,
+      "sha256": "7d70c449b6edb546f93ec8760a16384247cae8643cbcfe42adca7e1268c09ce0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2025-06-1-837431a47e54.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2025-06-1-837431a47e54.json",
+      "bytes": 26528,
+      "sha256": "dda02a1d07a71198d0ff6e432086d9a3d1352632c3432cd4d02d59a737397242",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2025-06-1-837431a47e54.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-e498847a1aabdb1e9514063eb171c5ec9739055551c288deb370c5c843ea1b1a.pdf",
+      "bytes": 343547,
+      "sha256": "e498847a1aabdb1e9514063eb171c5ec9739055551c288deb370c5c843ea1b1a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/e498847a1aabdb1e9514063eb171c5ec9739055551c288deb370c5c843ea1b1a.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2025-06-2-d30a7559af9f.json",
+      "bytes": 49706,
+      "sha256": "2d706e0756151ade31522d1bac6901e8d9467ad920c52e3593927d19dc41b1ef",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2025-06-2-d30a7559af9f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2025-06-2-d30a7559af9f.json",
+      "bytes": 25464,
+      "sha256": "327d26906d8f070338de34d77f12bc92c65da4834bc01cd3b767d2b6965b8d8f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2025-06-2-d30a7559af9f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-4f773dda79039584f22ab70a3fe1da342d5da59fbb4e9643e886c720b64fe809.pdf",
+      "bytes": 352540,
+      "sha256": "4f773dda79039584f22ab70a3fe1da342d5da59fbb4e9643e886c720b64fe809",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/4f773dda79039584f22ab70a3fe1da342d5da59fbb4e9643e886c720b64fe809.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2025-06-3-6d0e8a02906f.json",
+      "bytes": 45522,
+      "sha256": "3525a3604720f54400044a6a32f478d518954cc57708083ae91836dbd97b6859",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2025-06-3-6d0e8a02906f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2025-06-3-6d0e8a02906f.json",
+      "bytes": 25286,
+      "sha256": "0b428f9f895962e4ab8f1d7c8f466d79b36e1461105497c1d45eb53be739c517",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2025-06-3-6d0e8a02906f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ed86e39ce8fbba3881f2b584b1e88b2d49b0ce60cf2aca4a2447784f07fd4464.pdf",
+      "bytes": 346740,
+      "sha256": "ed86e39ce8fbba3881f2b584b1e88b2d49b0ce60cf2aca4a2447784f07fd4464",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ed86e39ce8fbba3881f2b584b1e88b2d49b0ce60cf2aca4a2447784f07fd4464.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2025-12-1-4c6fb1373a2b.json",
+      "bytes": 55751,
+      "sha256": "670a32c84d1e3a5bca0c304571b645738ba21fde4d96f26ebae78b96988b5d64",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2025-12-1-4c6fb1373a2b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2025-12-1-4c6fb1373a2b.json",
+      "bytes": 26692,
+      "sha256": "2cf2b8d63402aa22ccd2da7a7f6f34ebec7e9990d660d97e10a8dfdc0695cec8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2025-12-1-4c6fb1373a2b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-4df2553d49dbeb75f57bd5e031b205dd2470559053ecd0a61cea77e96c2c7556.pdf",
+      "bytes": 349539,
+      "sha256": "4df2553d49dbeb75f57bd5e031b205dd2470559053ecd0a61cea77e96c2c7556",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/4df2553d49dbeb75f57bd5e031b205dd2470559053ecd0a61cea77e96c2c7556.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2025-12-2-480e9c9184ac.json",
+      "bytes": 49151,
+      "sha256": "c2271783e1858f0e9b3c8268542262532972aed8ece02cf994d0b678f4762880",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2025-12-2-480e9c9184ac.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2025-12-2-480e9c9184ac.json",
+      "bytes": 26478,
+      "sha256": "58b25bb97b0f3466f83b7cc44429b07ad38d8831268e267d70e3400e40eba31d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2025-12-2-480e9c9184ac.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-31c9867b654c40dce0adead3542bc28ade7a451a33060f706fa97311b934f489.pdf",
+      "bytes": 345838,
+      "sha256": "31c9867b654c40dce0adead3542bc28ade7a451a33060f706fa97311b934f489",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/31c9867b654c40dce0adead3542bc28ade7a451a33060f706fa97311b934f489.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2025-12-3-2a6b29e5d960.json",
+      "bytes": 52556,
+      "sha256": "e917f168c08e25c1185c5aa66d230b76d43704000df887c05c6ebc2333ce0280",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2025-12-3-2a6b29e5d960.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2025-12-3-2a6b29e5d960.json",
+      "bytes": 26156,
+      "sha256": "120183fe21fa887070010776312435a8649ac25aa711df4b600f22bb97350d0a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2025-12-3-2a6b29e5d960.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-5934c5ae8a08d9545ba9ee6faf998ae82b289bf20037ce6945fecc7b91303151.pdf",
+      "bytes": 366226,
+      "sha256": "5934c5ae8a08d9545ba9ee6faf998ae82b289bf20037ce6945fecc7b91303151",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/5934c5ae8a08d9545ba9ee6faf998ae82b289bf20037ce6945fecc7b91303151.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2026-06-1-40248fe3d0e7.json",
+      "bytes": 51843,
+      "sha256": "d4a6c234a5d11c6787acf6ee078cf42a39f3df7306f69087ba9522b4a356d146",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2026-06-1-40248fe3d0e7.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2026-06-1-40248fe3d0e7.json",
+      "bytes": 25366,
+      "sha256": "7e45703575bd802e0f214da0fe8669ff40170ac2068f478b9ddfc78b1534bf99",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2026-06-1-40248fe3d0e7.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-8183217cb2f0cb46f9087531466aebf934e783786c75b02362b002b25c849d7c.pdf",
+      "bytes": 390754,
+      "sha256": "8183217cb2f0cb46f9087531466aebf934e783786c75b02362b002b25c849d7c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/8183217cb2f0cb46f9087531466aebf934e783786c75b02362b002b25c849d7c.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2026-06-2-6bfea873edee.json",
+      "bytes": 46621,
+      "sha256": "e05e5aa521fa28f194a8bab41835366f54ac372e92c3c7505e794d4e9a9a2bf3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2026-06-2-6bfea873edee.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2026-06-2-6bfea873edee.json",
+      "bytes": 25562,
+      "sha256": "2ccb0ea7abac2238eba1e6409773220e70a4cb79b75c7009b28037332dd2af90",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2026-06-2-6bfea873edee.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-4a2ccf5c1a32e3060143b55f4a443fd7c55a6f452853942e9dd3cc7b275b3941.pdf",
+      "bytes": 319940,
+      "sha256": "4a2ccf5c1a32e3060143b55f4a443fd7c55a6f452853942e9dd3cc7b275b3941",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/4a2ccf5c1a32e3060143b55f4a443fd7c55a6f452853942e9dd3cc7b275b3941.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet4-2026-06-3-3ed1c7225526.json",
+      "bytes": 52484,
+      "sha256": "5a2b5718a9de4bf6317a67ce98741e05bb7112c4b43e66a5a551f2dd827898f7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet4-2026-06-3-3ed1c7225526.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet4-2026-06-3-3ed1c7225526.json",
+      "bytes": 25422,
+      "sha256": "74296ee7e7a43a114a77e9035a5e954a7827353f69ba154a6addd9316dd9b725",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet4-2026-06-3-3ed1c7225526.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-2e98e55c0fbe75a230e158b682b4963e7c54b1754a815c43da8cf27a6211b0eb.pdf",
+      "bytes": 364721,
+      "sha256": "2e98e55c0fbe75a230e158b682b4963e7c54b1754a815c43da8cf27a6211b0eb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/2e98e55c0fbe75a230e158b682b4963e7c54b1754a815c43da8cf27a6211b0eb.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2017-06-1-d808f74470c8.json",
+      "bytes": 53752,
+      "sha256": "8038a4d1f91e7913d753eefd4e7aa015f2e666aa77b5a129141c78bd922c0da3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2017-06-1-d808f74470c8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2017-06-1-d808f74470c8.json",
+      "bytes": 28522,
+      "sha256": "b67dce99a31ae0ed4367c4596a5cf342a98b37f44543284e71906558809ee829",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2017-06-1-d808f74470c8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-a818a2de9c4570d1d7d79dc9d37ea35b071226d77518039a21f9f2dd017696aa.pdf",
+      "bytes": 340086,
+      "sha256": "a818a2de9c4570d1d7d79dc9d37ea35b071226d77518039a21f9f2dd017696aa",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/a818a2de9c4570d1d7d79dc9d37ea35b071226d77518039a21f9f2dd017696aa.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2017-06-2-34a48a7d6093.json",
+      "bytes": 56636,
+      "sha256": "6917eeb2699db1f89a9eacdc9ab81aa335be72a1e4360543d77e642fd3bdc011",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2017-06-2-34a48a7d6093.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2017-06-2-34a48a7d6093.json",
+      "bytes": 28422,
+      "sha256": "ed904fc78fbe94130b8b39790dd8ab02e9fd7414f7eb9c265d3671a6f4eddbcf",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2017-06-2-34a48a7d6093.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-b3ad24cf1c69fea77e5d0c57c4076459c7f272d6ef3cc678736beebfc6257ba8.pdf",
+      "bytes": 343592,
+      "sha256": "b3ad24cf1c69fea77e5d0c57c4076459c7f272d6ef3cc678736beebfc6257ba8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/b3ad24cf1c69fea77e5d0c57c4076459c7f272d6ef3cc678736beebfc6257ba8.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2017-06-3-779f5372b705.json",
+      "bytes": 50679,
+      "sha256": "43381ddbc31f5edbf04f13df3058d05afbd0e1409a2853a322c5d85834761bcd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2017-06-3-779f5372b705.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2017-06-3-779f5372b705.json",
+      "bytes": 29686,
+      "sha256": "c1d5de72d68f3e765ccbd47af0e77d5ff0c1066cb62ee25e38d23b3b689558cd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2017-06-3-779f5372b705.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-6ad26505353caef904f35d451b684e98181f46dcac61130f9b4a0f593a7ba949.pdf",
+      "bytes": 350982,
+      "sha256": "6ad26505353caef904f35d451b684e98181f46dcac61130f9b4a0f593a7ba949",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/6ad26505353caef904f35d451b684e98181f46dcac61130f9b4a0f593a7ba949.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2017-12-1-b62eabb7919e.json",
+      "bytes": 51252,
+      "sha256": "c407bccc3a2ff401af15609ac4e66dce0d94863948cad6c5a100c51b7ab69a72",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2017-12-1-b62eabb7919e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2017-12-1-b62eabb7919e.json",
+      "bytes": 27647,
+      "sha256": "f34ad4a18170b33d1b780d679bd7ab13e4b1700eeaf2c7ba4e569c83d0d40129",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2017-12-1-b62eabb7919e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-10dfb1e41a023491b8f1c2a97080bf8cf3cfa673e065813e31b7641ab3360aab.pdf",
+      "bytes": 384064,
+      "sha256": "10dfb1e41a023491b8f1c2a97080bf8cf3cfa673e065813e31b7641ab3360aab",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/10dfb1e41a023491b8f1c2a97080bf8cf3cfa673e065813e31b7641ab3360aab.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2017-12-2-807c03c70ba8.json",
+      "bytes": 53611,
+      "sha256": "0dbfda4a28f394c3f9acd321ff7aa3fc63f54eda1553bea5812274aa38549120",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2017-12-2-807c03c70ba8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2017-12-2-807c03c70ba8.json",
+      "bytes": 28392,
+      "sha256": "ab717d12a8c1db74d12f79be3c3a444dcb3741aa3798c12197ead15b718e4dd5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2017-12-2-807c03c70ba8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-b3dc250eb3da9716a5efea50bf59b5b2ea367d6daf58b4fb43b1fc7e4313f341.pdf",
+      "bytes": 365360,
+      "sha256": "b3dc250eb3da9716a5efea50bf59b5b2ea367d6daf58b4fb43b1fc7e4313f341",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/b3dc250eb3da9716a5efea50bf59b5b2ea367d6daf58b4fb43b1fc7e4313f341.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2017-12-3-b91c6cfcd57f.json",
+      "bytes": 54525,
+      "sha256": "666e3e3838569e6c0c1fb9864d8ced37300a2575583ac373d3494678b94f0e96",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2017-12-3-b91c6cfcd57f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2017-12-3-b91c6cfcd57f.json",
+      "bytes": 26940,
+      "sha256": "a977f55affae843d94447a5e653cf7a64587dd24ba29ee78559c6439fffd2f8d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2017-12-3-b91c6cfcd57f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-f4ae333c7e6dd5aa3ac29af434ca574a1050f3b4f9141e8794158146b08d376b.pdf",
+      "bytes": 367935,
+      "sha256": "f4ae333c7e6dd5aa3ac29af434ca574a1050f3b4f9141e8794158146b08d376b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/f4ae333c7e6dd5aa3ac29af434ca574a1050f3b4f9141e8794158146b08d376b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2018-06-1-85de5cc92550.json",
+      "bytes": 59163,
+      "sha256": "72ad8b6dd1961fe9564c469125a0e1ffc452648f39599fb068dd19d598af750f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2018-06-1-85de5cc92550.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2018-06-1-85de5cc92550.json",
+      "bytes": 28366,
+      "sha256": "c8047a09ea9b85329988ad9dc9f242f2eaf4cee3891581c118ea0dd259b4ff1c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2018-06-1-85de5cc92550.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-302ed378cb8b48d11d017c14f46c90f70f5ecc34bb443b86db93fae1c5798059.pdf",
+      "bytes": 400329,
+      "sha256": "302ed378cb8b48d11d017c14f46c90f70f5ecc34bb443b86db93fae1c5798059",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/302ed378cb8b48d11d017c14f46c90f70f5ecc34bb443b86db93fae1c5798059.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2018-06-2-c3477db88a9b.json",
+      "bytes": 53356,
+      "sha256": "30c1a0b83aa5cdb7ed85643755931235bc12c02102fd26540eb2c8c4b5ed0dc8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2018-06-2-c3477db88a9b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2018-06-2-c3477db88a9b.json",
+      "bytes": 27262,
+      "sha256": "86c09e6324be85b784dee63f2e4777326e75f0ac5c0fa275732132c029ac125e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2018-06-2-c3477db88a9b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-fe0f63a4ba616d682808cc356426b44353ea619bc7b13ab383d9e7d6d3f78d35.pdf",
+      "bytes": 342269,
+      "sha256": "fe0f63a4ba616d682808cc356426b44353ea619bc7b13ab383d9e7d6d3f78d35",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/fe0f63a4ba616d682808cc356426b44353ea619bc7b13ab383d9e7d6d3f78d35.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2018-06-3-8f2bf22b85bb.json",
+      "bytes": 52800,
+      "sha256": "12d991e95b3aacea6da41a366a567929dd7f178c66662f81e383771f26bfb0d4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2018-06-3-8f2bf22b85bb.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2018-06-3-8f2bf22b85bb.json",
+      "bytes": 28552,
+      "sha256": "5ed538477b3b8c87f889b633a1be2b3a60760a90a6596740d84755050c5e73a8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2018-06-3-8f2bf22b85bb.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-1d3b20be1f8a29f34913546e3e819529cbead096ad02c5fc86b1ca0f6761f80e.pdf",
+      "bytes": 354905,
+      "sha256": "1d3b20be1f8a29f34913546e3e819529cbead096ad02c5fc86b1ca0f6761f80e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/1d3b20be1f8a29f34913546e3e819529cbead096ad02c5fc86b1ca0f6761f80e.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2018-12-1-f73660d7f470.json",
+      "bytes": 52831,
+      "sha256": "f5592abd520afafb19af9d63fc685301f1aeb1f75d84a1cc84a67cefdbb64ef9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2018-12-1-f73660d7f470.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2018-12-1-f73660d7f470.json",
+      "bytes": 27774,
+      "sha256": "4e7fce2bae783d511861f70bf0af775a695a7aa2ae42bcdc74aacf5bbe5255a0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2018-12-1-f73660d7f470.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-462356f7fca29f366a67703360cefc292a27daab9dab5291c46689af8f32cd40.pdf",
+      "bytes": 394823,
+      "sha256": "462356f7fca29f366a67703360cefc292a27daab9dab5291c46689af8f32cd40",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/462356f7fca29f366a67703360cefc292a27daab9dab5291c46689af8f32cd40.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2018-12-2-631b70984e87.json",
+      "bytes": 53014,
+      "sha256": "d2e21fda3c03c57b484096c24be653e40e5c4f2c8dc239a435ac78100c4377f8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2018-12-2-631b70984e87.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2018-12-2-631b70984e87.json",
+      "bytes": 28953,
+      "sha256": "e850f42ceb2f94d947f45f987dc04a9d3b3afb41f73168fae7a09dfd038b449d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2018-12-2-631b70984e87.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-8fa35f2f7dab4e80368ff2870f04d367e384e4ff73b44bdfcdd5635ff0d028f5.pdf",
+      "bytes": 355942,
+      "sha256": "8fa35f2f7dab4e80368ff2870f04d367e384e4ff73b44bdfcdd5635ff0d028f5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/8fa35f2f7dab4e80368ff2870f04d367e384e4ff73b44bdfcdd5635ff0d028f5.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2018-12-3-383f2cd80fac.json",
+      "bytes": 49922,
+      "sha256": "1384c135816f96251579560de81b17480850fdd980fba1df3f7c41a7b0ceefcf",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2018-12-3-383f2cd80fac.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2018-12-3-383f2cd80fac.json",
+      "bytes": 28118,
+      "sha256": "39009c0ca679b5a491ef9872c3afcdd5e7f5cdcf517d062d9f14b2f67aa486cb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2018-12-3-383f2cd80fac.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-8d5cc999757e28208382e7156ff685495ddb1ea9319c89dbd7f1a19864204315.pdf",
+      "bytes": 377217,
+      "sha256": "8d5cc999757e28208382e7156ff685495ddb1ea9319c89dbd7f1a19864204315",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/8d5cc999757e28208382e7156ff685495ddb1ea9319c89dbd7f1a19864204315.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2019-06-1-840fb16e1065.json",
+      "bytes": 51139,
+      "sha256": "c04585cca8061662c576235d5aa9000efb5428aa7f1f83c77abcce0921506247",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2019-06-1-840fb16e1065.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2019-06-1-840fb16e1065.json",
+      "bytes": 28208,
+      "sha256": "d8026ce789072426f50128804fd484479e8de025b350e19893997fd76f44a8c4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2019-06-1-840fb16e1065.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-659a93a35b6a30d541479be5788583af36288ff592538446f1657919a29ef7f5.pdf",
+      "bytes": 382146,
+      "sha256": "659a93a35b6a30d541479be5788583af36288ff592538446f1657919a29ef7f5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/659a93a35b6a30d541479be5788583af36288ff592538446f1657919a29ef7f5.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2019-06-2-0b318dbb2f25.json",
+      "bytes": 51695,
+      "sha256": "511a05036e6c141e1d78c61cdeb46a82ea7f4f18b0c61e067df35d3bc22a7dd7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2019-06-2-0b318dbb2f25.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2019-06-2-0b318dbb2f25.json",
+      "bytes": 28494,
+      "sha256": "12aff7cf26fced3f75a819475694bc56f70eacb26e5757fa8b7c78f88c06a211",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2019-06-2-0b318dbb2f25.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-23ea81fb9acfdc773661f509fbe1ea0f2b512fc59a082249d0836ca7808c52db.pdf",
+      "bytes": 375046,
+      "sha256": "23ea81fb9acfdc773661f509fbe1ea0f2b512fc59a082249d0836ca7808c52db",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/23ea81fb9acfdc773661f509fbe1ea0f2b512fc59a082249d0836ca7808c52db.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2019-06-3-97fd62a1576b.json",
+      "bytes": 50747,
+      "sha256": "f7867790c4536ed81818c443e6aa21b6159d66b927d534958c6dbd16de8f9d94",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2019-06-3-97fd62a1576b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2019-06-3-97fd62a1576b.json",
+      "bytes": 28842,
+      "sha256": "2764839cc3375db0ae1048b7e800088b8c06eda8d3fb61d47a76bebc52fd4dc0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2019-06-3-97fd62a1576b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-1da4f93caaeb8bff784f5ad9d91ea4faed8020583e6defc871053ac62d3a150b.pdf",
+      "bytes": 349154,
+      "sha256": "1da4f93caaeb8bff784f5ad9d91ea4faed8020583e6defc871053ac62d3a150b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/1da4f93caaeb8bff784f5ad9d91ea4faed8020583e6defc871053ac62d3a150b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2019-12-1-1a06a5409d47.json",
+      "bytes": 53758,
+      "sha256": "35b7393762695744c121e538f2cacecc48f364e74cd4bd6b3b75de50867561bb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2019-12-1-1a06a5409d47.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2019-12-1-1a06a5409d47.json",
+      "bytes": 27422,
+      "sha256": "21f54ae255604a951706189ad252248acbbeea15f4e51aefccf7ff35677ca47d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2019-12-1-1a06a5409d47.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-c5203a26299b390a9b95dee2156f38f929acf16757eb53730af0e622a5e38c28.pdf",
+      "bytes": 369539,
+      "sha256": "c5203a26299b390a9b95dee2156f38f929acf16757eb53730af0e622a5e38c28",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/c5203a26299b390a9b95dee2156f38f929acf16757eb53730af0e622a5e38c28.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2019-12-2-efd463385418.json",
+      "bytes": 49882,
+      "sha256": "c2311b8b05f9b5cebf6e0276f9f422402377d322be86f882e5aef06fbb277d42",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2019-12-2-efd463385418.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2019-12-2-efd463385418.json",
+      "bytes": 27575,
+      "sha256": "1b4cf8aa0109f7f581f1ffdb8a5671b6a70b518f80a52138aad93a502910048b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2019-12-2-efd463385418.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-0d782913e2241affef9624d5263918f05447c3592a4fa177fa7bdcc118055ac0.pdf",
+      "bytes": 334641,
+      "sha256": "0d782913e2241affef9624d5263918f05447c3592a4fa177fa7bdcc118055ac0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/0d782913e2241affef9624d5263918f05447c3592a4fa177fa7bdcc118055ac0.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2019-12-3-4949653d3b97.json",
+      "bytes": 53083,
+      "sha256": "57c9b758725ee374f12e7615e69362a03f1cc4d41e6eb64305dfbd981ebf8cd0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2019-12-3-4949653d3b97.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2019-12-3-4949653d3b97.json",
+      "bytes": 29374,
+      "sha256": "00d82c38b46aad9ff9d45c5bba618d93b7d81f48eb1c66c214a5fbc090132b69",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2019-12-3-4949653d3b97.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-62ba1cdf9d70df0fba6ee6a5be77bfbecd2fc69e0950809ef07d094c6877c8f1.pdf",
+      "bytes": 365214,
+      "sha256": "62ba1cdf9d70df0fba6ee6a5be77bfbecd2fc69e0950809ef07d094c6877c8f1",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/62ba1cdf9d70df0fba6ee6a5be77bfbecd2fc69e0950809ef07d094c6877c8f1.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2020-07-1-ae9d2b61a56a.json",
+      "bytes": 61295,
+      "sha256": "6ea7e5d79d6c1e64a6953f4de268e54dd2084eb11c81badfea04fa7d836eb11a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2020-07-1-ae9d2b61a56a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2020-07-1-ae9d2b61a56a.json",
+      "bytes": 28648,
+      "sha256": "64ad61ea49b4ca1196ad1d76364bd6f5c0bba7c4dc99de38640426feb17733ca",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2020-07-1-ae9d2b61a56a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-5f5576ea839d7f05767fc1e24a275e0b79c8f9965607f66d206a9e06c02d1071.pdf",
+      "bytes": 347610,
+      "sha256": "5f5576ea839d7f05767fc1e24a275e0b79c8f9965607f66d206a9e06c02d1071",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/5f5576ea839d7f05767fc1e24a275e0b79c8f9965607f66d206a9e06c02d1071.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2020-09-1-62621a17c58c.json",
+      "bytes": 50282,
+      "sha256": "19ab217ccfb26c0ee8f8b71a13861256ecfe70f518b233b5485b74ff90f9c1b8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2020-09-1-62621a17c58c.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2020-09-1-62621a17c58c.json",
+      "bytes": 30444,
+      "sha256": "ae6cc57fd9df42cc9e71136702c7903caec46574b111509ed8befee87b891c41",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2020-09-1-62621a17c58c.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ca3ce0a56b11bf746e6e329bd7b6fc74c14a5f884e5151a24d54637ddf27075d.pdf",
+      "bytes": 378306,
+      "sha256": "ca3ce0a56b11bf746e6e329bd7b6fc74c14a5f884e5151a24d54637ddf27075d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ca3ce0a56b11bf746e6e329bd7b6fc74c14a5f884e5151a24d54637ddf27075d.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2020-09-2-374a0c301a75.json",
+      "bytes": 47952,
+      "sha256": "d4e35814cbb47e7a68155f65ced97fc43ef121a3d8ec9365a4633bee889f1933",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2020-09-2-374a0c301a75.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2020-09-2-374a0c301a75.json",
+      "bytes": 29349,
+      "sha256": "2247e18db140ae40a27cdca2a201107f408f5f8781f0c61d27887cee91baa079",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2020-09-2-374a0c301a75.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-fbd56bd63ce4e78fb41be5dd60394b96dd8e6018b9253485539516976ab146f7.pdf",
+      "bytes": 242649,
+      "sha256": "fbd56bd63ce4e78fb41be5dd60394b96dd8e6018b9253485539516976ab146f7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/fbd56bd63ce4e78fb41be5dd60394b96dd8e6018b9253485539516976ab146f7.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2020-09-3-cd8361bfe924.json",
+      "bytes": 2042,
+      "sha256": "473fae5bb6a540e403f2dc55f726c930fe60d33b93ae1cf76466631fbd85f11b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2020-09-3-cd8361bfe924.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-18a3a751000122ece59b69f347df66b91be6cf6654c4033c8810937684d13f56.pdf",
+      "bytes": 353945,
+      "sha256": "18a3a751000122ece59b69f347df66b91be6cf6654c4033c8810937684d13f56",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/18a3a751000122ece59b69f347df66b91be6cf6654c4033c8810937684d13f56.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2020-12-1-c28cbeffeca4.json",
+      "bytes": 57381,
+      "sha256": "db4d9d09b9d2eade39a4d55fc93fd5f26051c8acb76f77eb448d815f726a8879",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2020-12-1-c28cbeffeca4.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2020-12-1-c28cbeffeca4.json",
+      "bytes": 30290,
+      "sha256": "f51a57d9e80d505b644a8e1b62f1e4b3cc279c86350b6d7aee0be6c29c7f9ef6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2020-12-1-c28cbeffeca4.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-2ca217b00f471e075bcd593b05ee73203442625fbebf3b04cd8c4ed41ba70352.pdf",
+      "bytes": 401674,
+      "sha256": "2ca217b00f471e075bcd593b05ee73203442625fbebf3b04cd8c4ed41ba70352",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/2ca217b00f471e075bcd593b05ee73203442625fbebf3b04cd8c4ed41ba70352.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2020-12-2-2507ef918a20.json",
+      "bytes": 57147,
+      "sha256": "f936254c2c712976a1811379d605aa6d8245a26219e49f0e22f6e7a464273acd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2020-12-2-2507ef918a20.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2020-12-2-2507ef918a20.json",
+      "bytes": 29142,
+      "sha256": "d5f97183e9cb9fcae8ec38eb2c6aba245a7742c48ef706e71a343ae0e299fa2b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2020-12-2-2507ef918a20.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-a44a5de9c9305d090ab9f0fa2e386bb0e2ff7a7739fa093f55d2921b832de759.pdf",
+      "bytes": 377368,
+      "sha256": "a44a5de9c9305d090ab9f0fa2e386bb0e2ff7a7739fa093f55d2921b832de759",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/a44a5de9c9305d090ab9f0fa2e386bb0e2ff7a7739fa093f55d2921b832de759.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2020-12-3-07a6573cfb0d.json",
+      "bytes": 52797,
+      "sha256": "d53d575850f963950f7998c6a0896531adc542b6a02616e22248704ccd106d0b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2020-12-3-07a6573cfb0d.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2020-12-3-07a6573cfb0d.json",
+      "bytes": 29868,
+      "sha256": "37c2000113eb3211fae8b8fa613fb1fa9bb13785b8e68bbf3859456f403d3d90",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2020-12-3-07a6573cfb0d.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-31d465ad784b3b72c0dcd5ba1c32951dbb4557a7b3020ae0b9f77dfd8082fc8f.pdf",
+      "bytes": 428416,
+      "sha256": "31d465ad784b3b72c0dcd5ba1c32951dbb4557a7b3020ae0b9f77dfd8082fc8f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/31d465ad784b3b72c0dcd5ba1c32951dbb4557a7b3020ae0b9f77dfd8082fc8f.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2021-06-1-f4bea7c07b98.json",
+      "bytes": 57141,
+      "sha256": "b5e01af8ac3abed75c12a208aae992ef5440274f1a3df401d98e34fe803cdc3a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2021-06-1-f4bea7c07b98.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2021-06-1-f4bea7c07b98.json",
+      "bytes": 27828,
+      "sha256": "304aaa03254bd6347a69036c305e6415926b35ad9c84af4671a01f84e8d65abe",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2021-06-1-f4bea7c07b98.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-a5b763aa4d9b5d326edeb72bfb68f5f59aae1605f17fea2a984a9c13ca294849.pdf",
+      "bytes": 449308,
+      "sha256": "a5b763aa4d9b5d326edeb72bfb68f5f59aae1605f17fea2a984a9c13ca294849",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/a5b763aa4d9b5d326edeb72bfb68f5f59aae1605f17fea2a984a9c13ca294849.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2021-06-2-c9020a0556d0.json",
+      "bytes": 56796,
+      "sha256": "ef239615e5306d1c38c323dbce21be647941eb863f9534c8a8912baeceffd177",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2021-06-2-c9020a0556d0.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2021-06-2-c9020a0556d0.json",
+      "bytes": 27714,
+      "sha256": "4301c5511e25c11a842214c5d4910ca4c505d82f7324c3b51b7b7e6f443161d5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2021-06-2-c9020a0556d0.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-efa1d0502e5926f2879bbd7f3f2f0c0671d95fe58ce864eb23d610c38a270e1f.pdf",
+      "bytes": 477965,
+      "sha256": "efa1d0502e5926f2879bbd7f3f2f0c0671d95fe58ce864eb23d610c38a270e1f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/efa1d0502e5926f2879bbd7f3f2f0c0671d95fe58ce864eb23d610c38a270e1f.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2021-06-3-f2b748f90487.json",
+      "bytes": 56337,
+      "sha256": "d54da166910bc3ee3200c1b7928f2cdbc332386afa4d98e623e524a42856e577",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2021-06-3-f2b748f90487.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2021-06-3-f2b748f90487.json",
+      "bytes": 27242,
+      "sha256": "bdde89fa903591efaec0a9cd23b9daa02212ae236c20e79d41b61577381a52f2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2021-06-3-f2b748f90487.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ee202182ce881513496ddafa1d4794f88d75a8ed11225c12d05b5e685a921ad0.pdf",
+      "bytes": 337275,
+      "sha256": "ee202182ce881513496ddafa1d4794f88d75a8ed11225c12d05b5e685a921ad0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ee202182ce881513496ddafa1d4794f88d75a8ed11225c12d05b5e685a921ad0.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2021-12-1-ffce61342c0a.json",
+      "bytes": 72620,
+      "sha256": "79e454a4029d17cdd4656daa01716b198114cb0f528550aec5992f89aebf1ec4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2021-12-1-ffce61342c0a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2021-12-1-ffce61342c0a.json",
+      "bytes": 27868,
+      "sha256": "b1cf26313c3be1ecc341c1babeadade2e45b46b75bc15e2676d797972d693b6b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2021-12-1-ffce61342c0a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-afeccfec2dc019ec7fbb18e009079c4ce75e826abb6ec9f71c4e329c5ce5e7d4.pdf",
+      "bytes": 350684,
+      "sha256": "afeccfec2dc019ec7fbb18e009079c4ce75e826abb6ec9f71c4e329c5ce5e7d4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/afeccfec2dc019ec7fbb18e009079c4ce75e826abb6ec9f71c4e329c5ce5e7d4.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2021-12-2-a4a616a8a467.json",
+      "bytes": 53884,
+      "sha256": "19133172a253d113ac8bbcacfa26df99f4ac1ab85cb72f08f33ee40f374ada9b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2021-12-2-a4a616a8a467.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2021-12-2-a4a616a8a467.json",
+      "bytes": 29110,
+      "sha256": "59208621820e429abbd06c5ab4abf0d53c7d0fe616b8f6fb6e63d752d8459eec",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2021-12-2-a4a616a8a467.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-1f42b621d63fd56e83a41a90e942c74b6f26a833d5a9ace006401ce646ea0a87.pdf",
+      "bytes": 314546,
+      "sha256": "1f42b621d63fd56e83a41a90e942c74b6f26a833d5a9ace006401ce646ea0a87",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/1f42b621d63fd56e83a41a90e942c74b6f26a833d5a9ace006401ce646ea0a87.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2021-12-3-be50103818ff.json",
+      "bytes": 33110,
+      "sha256": "d236ce05ad8325590559596fb08b0ee40c59fd7207f578ab841b48ee2f7abe79",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2021-12-3-be50103818ff.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2021-12-3-be50103818ff.json",
+      "bytes": 25985,
+      "sha256": "7a4c01cd6f9028d75f0d6989bf1959b815883cae69d7dcb01a83b23583469b6f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2021-12-3-be50103818ff.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-cd3ef7a5aed55c3db4d4a3a8cb951f6418be528c21eb0faa57071f5a932abb13.pdf",
+      "bytes": 374386,
+      "sha256": "cd3ef7a5aed55c3db4d4a3a8cb951f6418be528c21eb0faa57071f5a932abb13",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/cd3ef7a5aed55c3db4d4a3a8cb951f6418be528c21eb0faa57071f5a932abb13.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-06-1-afd3589d7341.json",
+      "bytes": 56104,
+      "sha256": "4e6c5a65db1b90591d39234a61312702212d05a1a9d64f6d20d7f9868978985a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-06-1-afd3589d7341.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2022-06-1-afd3589d7341.json",
+      "bytes": 29310,
+      "sha256": "405ebb843dca14163f5f9be368df842964eda56d86621bfda8f9ea55a31d3ec5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2022-06-1-afd3589d7341.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ec5f078cb441b2076fd3f6b5b05e5507e0227ef8d9e3dff5493d6e3e2fb50bb7.pdf",
+      "bytes": 356181,
+      "sha256": "ec5f078cb441b2076fd3f6b5b05e5507e0227ef8d9e3dff5493d6e3e2fb50bb7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ec5f078cb441b2076fd3f6b5b05e5507e0227ef8d9e3dff5493d6e3e2fb50bb7.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-06-2-239d837f3626.json",
+      "bytes": 54654,
+      "sha256": "3629307e233411eafeb134b93f6a42fc29d2d820e17fcf4e663680a06dc56f87",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-06-2-239d837f3626.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2022-06-2-239d837f3626.json",
+      "bytes": 29053,
+      "sha256": "bccc08a6c216dd223ebb2ea0b81a4fd1dd925e2e625d1ac9886ca478f782676a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2022-06-2-239d837f3626.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-91069c352929b10be318946f2832eba378becce0592da89d1d82507add027c6e.pdf",
+      "bytes": 241129,
+      "sha256": "91069c352929b10be318946f2832eba378becce0592da89d1d82507add027c6e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/91069c352929b10be318946f2832eba378becce0592da89d1d82507add027c6e.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-06-3-eeb5cdb594e1.json",
+      "bytes": 2042,
+      "sha256": "587939305d1bb0b7964f4e4d52249205f0d71c062f870b7008a8145e5a2786c6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-06-3-eeb5cdb594e1.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-134bc8d4a742909558dcf46d818c2698dd35fd30fcf4c4f75fecbab3f8293a68.pdf",
+      "bytes": 342814,
+      "sha256": "134bc8d4a742909558dcf46d818c2698dd35fd30fcf4c4f75fecbab3f8293a68",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/134bc8d4a742909558dcf46d818c2698dd35fd30fcf4c4f75fecbab3f8293a68.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-09-1-b293727f6f3f.json",
+      "bytes": 53749,
+      "sha256": "c85112006b0959d0c9e4baafc6c6cec29de1ecfb356f48cdf46e765c7f18ac41",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-09-1-b293727f6f3f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2022-09-1-b293727f6f3f.json",
+      "bytes": 28862,
+      "sha256": "1fd05d3909849b329100e09a683c6b65879c517fc68506d6e9bd9e3d26378a38",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2022-09-1-b293727f6f3f.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-fd45caf8e92ed6100a1790adb2b25353794282264b01b799a2a06a9a918042bb.pdf",
+      "bytes": 236226,
+      "sha256": "fd45caf8e92ed6100a1790adb2b25353794282264b01b799a2a06a9a918042bb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/fd45caf8e92ed6100a1790adb2b25353794282264b01b799a2a06a9a918042bb.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-09-2-b05f9e8b0741.json",
+      "bytes": 2042,
+      "sha256": "5ce5cbcb672dbd6ef4c69a2b5f7d4e73869ff419d2f3f56f841f9e200406d5cd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-09-2-b05f9e8b0741.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-53a2539d12833285e2b746cad03adf31b5fb0e244ef8be6f88e1d2b492b2e78d.pdf",
+      "bytes": 239704,
+      "sha256": "53a2539d12833285e2b746cad03adf31b5fb0e244ef8be6f88e1d2b492b2e78d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/53a2539d12833285e2b746cad03adf31b5fb0e244ef8be6f88e1d2b492b2e78d.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-09-3-bd39c8b670fe.json",
+      "bytes": 2042,
+      "sha256": "02f8e4066834c9d1d8ce1c0789f1ed21186f39a99cca0c0694207d9db571340f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-09-3-bd39c8b670fe.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-033b93a8b8ebea79edd456dc7dda94937e641bcf230cb0634ca269f8c882fb1b.pdf",
+      "bytes": 371014,
+      "sha256": "033b93a8b8ebea79edd456dc7dda94937e641bcf230cb0634ca269f8c882fb1b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/033b93a8b8ebea79edd456dc7dda94937e641bcf230cb0634ca269f8c882fb1b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-12-1-025f979c61ab.json",
+      "bytes": 55491,
+      "sha256": "c6ad00c5cd1723ceb57766e46d4dfde6ce20b9a385b93933127c11cd185d9715",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-12-1-025f979c61ab.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2022-12-1-025f979c61ab.json",
+      "bytes": 28371,
+      "sha256": "bd9e628f6aadde65be06bce03c246768e30a3c0178129956ae684e739894253f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2022-12-1-025f979c61ab.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-6eee0c621a10b1b394974306b7e88f08ee77430fb90d155c3e9db2255f81f884.pdf",
+      "bytes": 385736,
+      "sha256": "6eee0c621a10b1b394974306b7e88f08ee77430fb90d155c3e9db2255f81f884",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/6eee0c621a10b1b394974306b7e88f08ee77430fb90d155c3e9db2255f81f884.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-12-2-5c5180c1bdaa.json",
+      "bytes": 54692,
+      "sha256": "ec5aa9e76dc23c4bb08ff13bb8618c821bf164064fa51858aa70ff8f0363cfb5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-12-2-5c5180c1bdaa.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2022-12-2-5c5180c1bdaa.json",
+      "bytes": 30328,
+      "sha256": "c5a43ba703e626c8f996e4b39713b593676814c5da4074b90d9095c447bf2590",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2022-12-2-5c5180c1bdaa.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-0953b43952b9c88172135ed65cf63399955a1c987f98d676afc60c5ce315ca84.pdf",
+      "bytes": 377284,
+      "sha256": "0953b43952b9c88172135ed65cf63399955a1c987f98d676afc60c5ce315ca84",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/0953b43952b9c88172135ed65cf63399955a1c987f98d676afc60c5ce315ca84.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2022-12-3-cbe473e74128.json",
+      "bytes": 51505,
+      "sha256": "7c284c1405cde9416e93759c0750a5984e8d3c7b1a5b93936f0778349622b094",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2022-12-3-cbe473e74128.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2022-12-3-cbe473e74128.json",
+      "bytes": 29288,
+      "sha256": "a73d584ec55c400b9140fc48cb8f1275b8505aa5e25264c678e83a3e53e68dbe",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2022-12-3-cbe473e74128.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-eb598b4f1459fc492b0d30d8eb20647d2b1f4a08e103b30ac954a9badf63e0a2.pdf",
+      "bytes": 358792,
+      "sha256": "eb598b4f1459fc492b0d30d8eb20647d2b1f4a08e103b30ac954a9badf63e0a2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/eb598b4f1459fc492b0d30d8eb20647d2b1f4a08e103b30ac954a9badf63e0a2.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-03-1-b298418c5f2b.json",
+      "bytes": 59008,
+      "sha256": "b3a1a025758c413f02f0f8ad9801c33448cab43c1296c9b976a56104fd4b062f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-03-1-b298418c5f2b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2023-03-1-b298418c5f2b.json",
+      "bytes": 27862,
+      "sha256": "179a69c74a0916a581ebe446b9e9c545a22f909e2e6d3b46423c2f3a78ec7a7a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2023-03-1-b298418c5f2b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d97f3aeb00b58f52f9dd6e6007d456121f07e5026891f538c9592124b1758e52.pdf",
+      "bytes": 238948,
+      "sha256": "d97f3aeb00b58f52f9dd6e6007d456121f07e5026891f538c9592124b1758e52",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d97f3aeb00b58f52f9dd6e6007d456121f07e5026891f538c9592124b1758e52.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-03-2-d00269d42b41.json",
+      "bytes": 2042,
+      "sha256": "339f62199c500bd63a92881d9dc39bdab4d69e97a84d18c01a1d22827a1e39af",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-03-2-d00269d42b41.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-be9ef9ad36d1237fd579de3a92523cfa11053028b614386639cf9ecfdb3b58a7.pdf",
+      "bytes": 239993,
+      "sha256": "be9ef9ad36d1237fd579de3a92523cfa11053028b614386639cf9ecfdb3b58a7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/be9ef9ad36d1237fd579de3a92523cfa11053028b614386639cf9ecfdb3b58a7.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-03-3-72f8826adab1.json",
+      "bytes": 2042,
+      "sha256": "6586bd7368cc2d60ace83540a0a0d44b85d0436c3221fcc6009d0eae0db2a4c1",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-03-3-72f8826adab1.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ce630598da38398753ec15ef2c70cebae823ec987229eb27968b1b8edaf856bd.pdf",
+      "bytes": 384272,
+      "sha256": "ce630598da38398753ec15ef2c70cebae823ec987229eb27968b1b8edaf856bd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ce630598da38398753ec15ef2c70cebae823ec987229eb27968b1b8edaf856bd.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-06-1-45b2f3e73806.json",
+      "bytes": 56652,
+      "sha256": "4984d2cb5c881be1873c80e3c1e9d3f85bb347ce345c8fa763f28ced208e98cc",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-06-1-45b2f3e73806.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2023-06-1-45b2f3e73806.json",
+      "bytes": 28262,
+      "sha256": "696a919c124e38f5a4f9936ac9495178f8b60ccd9f44417cee8bca4b1c3d61fd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2023-06-1-45b2f3e73806.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-af5e9ac7626cd426c44646ec6b54f51676dcffeb58861cfbea46a5498f171b58.pdf",
+      "bytes": 363320,
+      "sha256": "af5e9ac7626cd426c44646ec6b54f51676dcffeb58861cfbea46a5498f171b58",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/af5e9ac7626cd426c44646ec6b54f51676dcffeb58861cfbea46a5498f171b58.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-06-2-0816c073830a.json",
+      "bytes": 55729,
+      "sha256": "f15b68257b485c99c9604d9b33b1f736f53b7a7b60f70bd7a09cd475e2eac122",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-06-2-0816c073830a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2023-06-2-0816c073830a.json",
+      "bytes": 28344,
+      "sha256": "5aea84a39940c78ce8c2f1d9d788f26e30bf6e0f63ff705ad581321c473532dc",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2023-06-2-0816c073830a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d0aef73ce800ac49e0e1008ee28b2da9d9af001eb44120f0a0c45e2aab9dcc83.pdf",
+      "bytes": 356438,
+      "sha256": "d0aef73ce800ac49e0e1008ee28b2da9d9af001eb44120f0a0c45e2aab9dcc83",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d0aef73ce800ac49e0e1008ee28b2da9d9af001eb44120f0a0c45e2aab9dcc83.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-06-3-8ed7812347fb.json",
+      "bytes": 65435,
+      "sha256": "596eab79eb7629455c37b3c2bad6839ee53062b686f1a94ab1036cdf643a27d2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-06-3-8ed7812347fb.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2023-06-3-8ed7812347fb.json",
+      "bytes": 28796,
+      "sha256": "0e019d8bc005724901af00706db50a810dbc4544672830bd6284e5b4a5ffc20a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2023-06-3-8ed7812347fb.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-a88ccf3de3e3b70cd6cc0ddcfc45d36498611a70f36ad3975a7d9efdaa05e737.pdf",
+      "bytes": 358020,
+      "sha256": "a88ccf3de3e3b70cd6cc0ddcfc45d36498611a70f36ad3975a7d9efdaa05e737",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/a88ccf3de3e3b70cd6cc0ddcfc45d36498611a70f36ad3975a7d9efdaa05e737.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-12-1-ae0ce2b9900a.json",
+      "bytes": 53421,
+      "sha256": "a68c1d68c6f413422471b4b3006289ff62e4bdbc54159c265e875dcaf05802ad",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-12-1-ae0ce2b9900a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2023-12-1-ae0ce2b9900a.json",
+      "bytes": 28738,
+      "sha256": "7828cdde857c83c8988d8670fed46562ff8d632765d308d29ae6d0999de65d64",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2023-12-1-ae0ce2b9900a.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-36aa7ace1af6f86f3f53ac24d1b328e4983cea50f216b7b019d95af0ff06589c.pdf",
+      "bytes": 380437,
+      "sha256": "36aa7ace1af6f86f3f53ac24d1b328e4983cea50f216b7b019d95af0ff06589c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/36aa7ace1af6f86f3f53ac24d1b328e4983cea50f216b7b019d95af0ff06589c.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-12-2-7e4c39c2f55d.json",
+      "bytes": 65461,
+      "sha256": "033c3b69e3e3ea281a81d5984d8e8fa52a8b6089782a2367a70a5ef3b93f3985",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-12-2-7e4c39c2f55d.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2023-12-2-7e4c39c2f55d.json",
+      "bytes": 28932,
+      "sha256": "807c2034bd77b5f2d8180b538440abd82b2013e75b6a813247c90fa5a0338172",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2023-12-2-7e4c39c2f55d.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-b01411412138aaad43ad617321e112ae60949a453f1381511e68b6011c27ba19.pdf",
+      "bytes": 336675,
+      "sha256": "b01411412138aaad43ad617321e112ae60949a453f1381511e68b6011c27ba19",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/b01411412138aaad43ad617321e112ae60949a453f1381511e68b6011c27ba19.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2023-12-3-20deb499f923.json",
+      "bytes": 55708,
+      "sha256": "5e675acb480d91e5d91838a971b345f1adc958c139a5b516ce9c84e2ee603ebf",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2023-12-3-20deb499f923.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2023-12-3-20deb499f923.json",
+      "bytes": 28928,
+      "sha256": "b972eafc03f99c7e36a23b1e07f92060e41c2a2ec4a748fdcf636dd9814c7d58",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2023-12-3-20deb499f923.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-c6046cdd9a219a02563e48ea61745c7787c6dc446d62b70be42bb6c3a1de9ef7.pdf",
+      "bytes": 343151,
+      "sha256": "c6046cdd9a219a02563e48ea61745c7787c6dc446d62b70be42bb6c3a1de9ef7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/c6046cdd9a219a02563e48ea61745c7787c6dc446d62b70be42bb6c3a1de9ef7.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2024-06-1-f6cd11c8f5c9.json",
+      "bytes": 51818,
+      "sha256": "4f16d9e1d4f1e87c271571b3e2fc28eea32e5c07cc447600f7fe98a72c5d6c4c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2024-06-1-f6cd11c8f5c9.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2024-06-1-f6cd11c8f5c9.json",
+      "bytes": 28496,
+      "sha256": "6457bb10133967368e42787149806557d6caf08d31780ad071def7691472840e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2024-06-1-f6cd11c8f5c9.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-e9cd8be12ffc2445b1646469f48dc3be1fc767b7bc8d40d9614c7a0d2fdf7420.pdf",
+      "bytes": 338280,
+      "sha256": "e9cd8be12ffc2445b1646469f48dc3be1fc767b7bc8d40d9614c7a0d2fdf7420",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/e9cd8be12ffc2445b1646469f48dc3be1fc767b7bc8d40d9614c7a0d2fdf7420.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2024-06-2-eed58359d564.json",
+      "bytes": 46885,
+      "sha256": "5036d91c42127e2838a16847f3fa631f3c3a58bd5dd17a7e08cd557048bd4806",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2024-06-2-eed58359d564.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2024-06-2-eed58359d564.json",
+      "bytes": 27080,
+      "sha256": "c7a0cbf01eb1f5afac04d8c71ade41fff67a37a7d14eabe1369b177745ac78bb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2024-06-2-eed58359d564.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-47df4ac7679e71735caf4b9debe1091db3cc6b24561b8fef42583a742f186774.pdf",
+      "bytes": 334423,
+      "sha256": "47df4ac7679e71735caf4b9debe1091db3cc6b24561b8fef42583a742f186774",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/47df4ac7679e71735caf4b9debe1091db3cc6b24561b8fef42583a742f186774.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2024-06-3-e2cdb42a70d1.json",
+      "bytes": 54651,
+      "sha256": "ca5270278de5af19ac7fc1fb788c88ba24d36d9533d3616cff837cb87466128d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2024-06-3-e2cdb42a70d1.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2024-06-3-e2cdb42a70d1.json",
+      "bytes": 28688,
+      "sha256": "db5e97fd3fd095c42d7396c52096628bf8495b6b915bf2a2aa72f89e7bfe8275",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2024-06-3-e2cdb42a70d1.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-9219ffb29e98e255aa1e3ce3f5758ba5156f710609c4c913509a37fc7dc22410.pdf",
+      "bytes": 375482,
+      "sha256": "9219ffb29e98e255aa1e3ce3f5758ba5156f710609c4c913509a37fc7dc22410",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/9219ffb29e98e255aa1e3ce3f5758ba5156f710609c4c913509a37fc7dc22410.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2024-12-1-70956c7b81b3.json",
+      "bytes": 60956,
+      "sha256": "361cfed6076be154b875ce108326c8c1fbd42382c3250f0836381de5b1b5f8dd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2024-12-1-70956c7b81b3.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2024-12-1-70956c7b81b3.json",
+      "bytes": 29095,
+      "sha256": "37e0a4012ffc0a4e4047a1a717d44e9e8c9cbf13e90d87291211c336107b2896",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2024-12-1-70956c7b81b3.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-2faaae8dffb51afcf5cc05d9ce83d001e7136b029e98cd7feb49a5e0b29f28c8.pdf",
+      "bytes": 337486,
+      "sha256": "2faaae8dffb51afcf5cc05d9ce83d001e7136b029e98cd7feb49a5e0b29f28c8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/2faaae8dffb51afcf5cc05d9ce83d001e7136b029e98cd7feb49a5e0b29f28c8.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2024-12-2-3d09b2104bf8.json",
+      "bytes": 51796,
+      "sha256": "0056750d85b78d5d87f5e0eb815c4727fd52778856eb2a795c7cc54a527c1c13",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2024-12-2-3d09b2104bf8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2024-12-2-3d09b2104bf8.json",
+      "bytes": 26804,
+      "sha256": "58d4e15bbb57db4ea7fcc0b30e45c0e158a854fd79dd8775b36fa1ec0eeb92ad",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2024-12-2-3d09b2104bf8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-d08fb1d073a50bb7b3e25c5a8bcd107f1fff7273c912a5d1e46367d5aeba1bd0.pdf",
+      "bytes": 338987,
+      "sha256": "d08fb1d073a50bb7b3e25c5a8bcd107f1fff7273c912a5d1e46367d5aeba1bd0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/d08fb1d073a50bb7b3e25c5a8bcd107f1fff7273c912a5d1e46367d5aeba1bd0.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2024-12-3-445484a4480b.json",
+      "bytes": 59954,
+      "sha256": "726f72d48790f7715b3e3da11b67b401ca68e99272a4d8bfeea7509390136f9d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2024-12-3-445484a4480b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2024-12-3-445484a4480b.json",
+      "bytes": 28122,
+      "sha256": "4e04e4b1eda63d5636be203a9f71eaadf1b3cc7c4d3c059267c56fe357ec46ad",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2024-12-3-445484a4480b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-4d81f48284d2318dcd3097883129df5dd4c9a6d62d6185cf8fc3b62ba718ea15.pdf",
+      "bytes": 346001,
+      "sha256": "4d81f48284d2318dcd3097883129df5dd4c9a6d62d6185cf8fc3b62ba718ea15",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/4d81f48284d2318dcd3097883129df5dd4c9a6d62d6185cf8fc3b62ba718ea15.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2025-06-1-964aedfc1a34.json",
+      "bytes": 50437,
+      "sha256": "1280170fe5218f846dd215745d29ab89531661d5c92872e31aad4c4d3d9cfa07",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2025-06-1-964aedfc1a34.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2025-06-1-964aedfc1a34.json",
+      "bytes": 30836,
+      "sha256": "1d5c81c0da1eadd144f76a24adef23e1be1d5bb8102c5cefc1d2b2f93f367ab3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2025-06-1-964aedfc1a34.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-27f591b36ff22b9f60bbee5c4cf6c8e8274190b648816158a16b21c9a4ea3ebc.pdf",
+      "bytes": 388489,
+      "sha256": "27f591b36ff22b9f60bbee5c4cf6c8e8274190b648816158a16b21c9a4ea3ebc",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/27f591b36ff22b9f60bbee5c4cf6c8e8274190b648816158a16b21c9a4ea3ebc.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2025-06-2-cd0c60961faa.json",
+      "bytes": 49410,
+      "sha256": "fc5e53275edde734262f48e719115ea2b88de9150cbae4b15edac03c481969a9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2025-06-2-cd0c60961faa.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2025-06-2-cd0c60961faa.json",
+      "bytes": 29342,
+      "sha256": "ae5cce36237823398b20cce7a7bb93250a57091b0a69a3d1739964964cdac538",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2025-06-2-cd0c60961faa.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-f57c4c731711c641520375717f0763cd5205f999e2ffe80849b8fe66f35eb64b.pdf",
+      "bytes": 335657,
+      "sha256": "f57c4c731711c641520375717f0763cd5205f999e2ffe80849b8fe66f35eb64b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/f57c4c731711c641520375717f0763cd5205f999e2ffe80849b8fe66f35eb64b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2025-06-3-7559420e9238.json",
+      "bytes": 51625,
+      "sha256": "a7d39ea5de52c5d425a138136077a11a42f45b3dd5287b8391d41e49c5eeadaa",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2025-06-3-7559420e9238.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2025-06-3-7559420e9238.json",
+      "bytes": 29630,
+      "sha256": "00dd77a3f66d6c714c02f26f218d0b7b97ace377f2b32d130a38d3a2e8d1546b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2025-06-3-7559420e9238.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-845c3165e3c84dd20209b9d3b8b3e4c6833f948ae635d3e6f3a1a1fc175a56e6.pdf",
+      "bytes": 349962,
+      "sha256": "845c3165e3c84dd20209b9d3b8b3e4c6833f948ae635d3e6f3a1a1fc175a56e6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/845c3165e3c84dd20209b9d3b8b3e4c6833f948ae635d3e6f3a1a1fc175a56e6.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2025-12-1-fbb389a72593.json",
+      "bytes": 52293,
+      "sha256": "34815ab20d096a4f48ca88766e27abc919d6f8c28d21ba7a312fb1d3ad25b45c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2025-12-1-fbb389a72593.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2025-12-1-fbb389a72593.json",
+      "bytes": 29124,
+      "sha256": "229bd8ba66ecbd05f96c82602ba13b08a6b902ecac48f7c94d48bf44ddde508f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2025-12-1-fbb389a72593.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-b4570962bc3bd163c5259689c27f3e8451c3f2d5d2b94da308a9e288d9ea1fe5.pdf",
+      "bytes": 358415,
+      "sha256": "b4570962bc3bd163c5259689c27f3e8451c3f2d5d2b94da308a9e288d9ea1fe5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/b4570962bc3bd163c5259689c27f3e8451c3f2d5d2b94da308a9e288d9ea1fe5.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2025-12-2-e3fdfac47463.json",
+      "bytes": 45807,
+      "sha256": "d2dbfb6c0aca1c499394924450d37f25aa084260fd096759e48a90b1648c2406",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2025-12-2-e3fdfac47463.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2025-12-2-e3fdfac47463.json",
+      "bytes": 27850,
+      "sha256": "0cdb7bd28bfed03053cda7813733396d4ad85852d1dcf7685961ef06c725f36f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2025-12-2-e3fdfac47463.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-e23dc6287ee78875da6899a94a3add8ea6e3a3fc39d524a645217b42a7459cb2.pdf",
+      "bytes": 377384,
+      "sha256": "e23dc6287ee78875da6899a94a3add8ea6e3a3fc39d524a645217b42a7459cb2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/e23dc6287ee78875da6899a94a3add8ea6e3a3fc39d524a645217b42a7459cb2.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2025-12-3-22d68e117404.json",
+      "bytes": 52965,
+      "sha256": "fb5a5f416f157da08ba8286bbadfb24168b2152c90977964b812021930a9f786",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2025-12-3-22d68e117404.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2025-12-3-22d68e117404.json",
+      "bytes": 29904,
+      "sha256": "8fa88ca71ac9705aabb3f92af85c45ef3473e4594c48bcd35a68d2841b73b46e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2025-12-3-22d68e117404.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-79d23bc72896442d8339cae0451e8b77a58723558815e607d974d7e93d95b2e1.pdf",
+      "bytes": 368524,
+      "sha256": "79d23bc72896442d8339cae0451e8b77a58723558815e607d974d7e93d95b2e1",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/79d23bc72896442d8339cae0451e8b77a58723558815e607d974d7e93d95b2e1.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2026-06-1-0df76248c652.json",
+      "bytes": 54973,
+      "sha256": "cf9342b33a421fe723b1aa22dd545e2b0e6d8face726df305a67afea62792dcf",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2026-06-1-0df76248c652.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2026-06-1-0df76248c652.json",
+      "bytes": 27482,
+      "sha256": "59aced6f6494283043fc80464ee57eef50fc273ab68ad594fbe9058f6974a5e6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2026-06-1-0df76248c652.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-64b3e2812f28b7d067c42c4182ec73a51022633bf092502f3eb233d6da4ae75b.pdf",
+      "bytes": 371581,
+      "sha256": "64b3e2812f28b7d067c42c4182ec73a51022633bf092502f3eb233d6da4ae75b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/64b3e2812f28b7d067c42c4182ec73a51022633bf092502f3eb233d6da4ae75b.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2026-06-2-2411b6f58b77.json",
+      "bytes": 56267,
+      "sha256": "6e3f999d20be8abdb844676233375aa13817087b3283ab990f68df316bf855b4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2026-06-2-2411b6f58b77.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2026-06-2-2411b6f58b77.json",
+      "bytes": 28844,
+      "sha256": "2e75aa28d63f6eefdc9de9f91f13f518dfa7ee084461876b146a85b18376ac14",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2026-06-2-2411b6f58b77.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-7e45f07d9a73403f45d223459b72b7314b697afbf347c02135ff3989f60e49ca.pdf",
+      "bytes": 349564,
+      "sha256": "7e45f07d9a73403f45d223459b72b7314b697afbf347c02135ff3989f60e49ca",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/7e45f07d9a73403f45d223459b72b7314b697afbf347c02135ff3989f60e49ca.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-cet6-2026-06-3-72f20ebafe95.json",
+      "bytes": 57872,
+      "sha256": "f24bd34f96a838033c5b84d97a687d6a68d4bbf3d3789a36f93d17dff3c9f7b5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-cet6-2026-06-3-72f20ebafe95.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-cet6-2026-06-3-72f20ebafe95.json",
+      "bytes": 28852,
+      "sha256": "a7d259b1036792befdf3d66608d456639d3cb8e289870cb943a3eed71901ad30",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-cet6-2026-06-3-72f20ebafe95.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-a8a77318db10e3d0f52a7832107e7b7c253558e01758ccc282dacad30aa7dad5.pdf",
+      "bytes": 267246,
+      "sha256": "a8a77318db10e3d0f52a7832107e7b7c253558e01758ccc282dacad30aa7dad5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/a8a77318db10e3d0f52a7832107e7b7c253558e01758ccc282dacad30aa7dad5.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2017-english-one-21a4852d7463.json",
+      "bytes": 55943,
+      "sha256": "4bcd4d3791fb7db162bd33019165a9db00e3cd9869a59529f2ede1c27e339b19",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2017-english-one-21a4852d7463.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2017-english-one-21a4852d7463.json",
+      "bytes": 36245,
+      "sha256": "5ff8efd1a4f93f60a9a6b75b21d2c9d866ac258fd4336a19592ad75143a6cb05",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2017-english-one-21a4852d7463.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-7e38bfad9324cc58d36bc33482b3b1e1a678751bfc678a8e83947945bca197f5.pdf",
+      "bytes": 255725,
+      "sha256": "7e38bfad9324cc58d36bc33482b3b1e1a678751bfc678a8e83947945bca197f5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/7e38bfad9324cc58d36bc33482b3b1e1a678751bfc678a8e83947945bca197f5.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2017-english-two-f2710faa614b.json",
+      "bytes": 50189,
+      "sha256": "51f87966151264736ddd6b2dd19769f8cc9a16a8c2ce7dc887fd3ca321e12f2e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2017-english-two-f2710faa614b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2017-english-two-f2710faa614b.json",
+      "bytes": 29953,
+      "sha256": "3376c527c44ae013127ab2515c96dad532e2710c2c0199bc26a2fe8d3bfa5748",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2017-english-two-f2710faa614b.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-bd7be3a22418867e190de46561d92b0513730c0faa29a92787757b5263fce1c3.pdf",
+      "bytes": 264558,
+      "sha256": "bd7be3a22418867e190de46561d92b0513730c0faa29a92787757b5263fce1c3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/bd7be3a22418867e190de46561d92b0513730c0faa29a92787757b5263fce1c3.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2018-english-one-df67f85967c8.json",
+      "bytes": 53300,
+      "sha256": "70283b793084fd31776285793af35fc7fe4b276659271bc634dcacff530b6ebc",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2018-english-one-df67f85967c8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2018-english-one-df67f85967c8.json",
+      "bytes": 35595,
+      "sha256": "277f5264d98d5859cf2a415ca15715699060b1a7089f166dab400a76b034d147",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2018-english-one-df67f85967c8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-70ff3122237972c8f5517416a21d1d64906e2504648e2b019b6ab9a4771dcd72.pdf",
+      "bytes": 293637,
+      "sha256": "70ff3122237972c8f5517416a21d1d64906e2504648e2b019b6ab9a4771dcd72",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/70ff3122237972c8f5517416a21d1d64906e2504648e2b019b6ab9a4771dcd72.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2018-english-two-89e611664c09.json",
+      "bytes": 46875,
+      "sha256": "d6112177f04f864d3b767aca066ce5cbde0fba53e76aae80f51fb795da22babb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2018-english-two-89e611664c09.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2018-english-two-89e611664c09.json",
+      "bytes": 29084,
+      "sha256": "811567ada5ed879f5ce0e2cc91b831fc79a4e851a3964971527ce01df20e9e74",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2018-english-two-89e611664c09.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-0b24cfd8f5a92e9f199d6c62b74ef49f2833dd376cedab7d890532985e59f399.pdf",
+      "bytes": 260459,
+      "sha256": "0b24cfd8f5a92e9f199d6c62b74ef49f2833dd376cedab7d890532985e59f399",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/0b24cfd8f5a92e9f199d6c62b74ef49f2833dd376cedab7d890532985e59f399.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2019-english-one-367934c7fa34.json",
+      "bytes": 53186,
+      "sha256": "55567ffa5f6cf19971c23e1b4f09ec8f1db3e9b7654600bfe546e77940b9ec35",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2019-english-one-367934c7fa34.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2019-english-one-367934c7fa34.json",
+      "bytes": 35995,
+      "sha256": "cbabd281fe3541f6b0035a8d86b52751a218668489b1c57e06280f730b7104c6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2019-english-one-367934c7fa34.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-0918b62cc35a5dba86f720bfafb1a4c66ef5084465e4e89a27eec761ed5c3991.pdf",
+      "bytes": 254458,
+      "sha256": "0918b62cc35a5dba86f720bfafb1a4c66ef5084465e4e89a27eec761ed5c3991",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/0918b62cc35a5dba86f720bfafb1a4c66ef5084465e4e89a27eec761ed5c3991.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2019-english-two-1569377df233.json",
+      "bytes": 48408,
+      "sha256": "4f1f7ccd9eadf6fe5a3df7be680a589e70db4d2700acc0b75016ef40f22b4012",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2019-english-two-1569377df233.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2019-english-two-1569377df233.json",
+      "bytes": 30032,
+      "sha256": "d56e5001d810bb24eb31db052935ef765e5015479307eac9e24f9e73aa9c3eb1",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2019-english-two-1569377df233.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-e7d1fcfae73db66c51013afc89431f2b790feef86253d96de49a4b788864f92f.pdf",
+      "bytes": 294596,
+      "sha256": "e7d1fcfae73db66c51013afc89431f2b790feef86253d96de49a4b788864f92f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/e7d1fcfae73db66c51013afc89431f2b790feef86253d96de49a4b788864f92f.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2020-english-one-5753a9e01936.json",
+      "bytes": 52536,
+      "sha256": "0b8e38b13518aa4e60bbaa7036239e760efac74c3d81dde7656295f13d112b55",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2020-english-one-5753a9e01936.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2020-english-one-5753a9e01936.json",
+      "bytes": 21111,
+      "sha256": "8c7e41ad2af9a381ac8be46118d323e0bc2a342a41be57c10e0a9682fd50d6c3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2020-english-one-5753a9e01936.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-e4304263c949be7e129bba13bd6e1e70fb93e024f069ba323b6d11c3808463ea.pdf",
+      "bytes": 291806,
+      "sha256": "e4304263c949be7e129bba13bd6e1e70fb93e024f069ba323b6d11c3808463ea",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/e4304263c949be7e129bba13bd6e1e70fb93e024f069ba323b6d11c3808463ea.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2020-english-two-fe942a21c3c8.json",
+      "bytes": 46863,
+      "sha256": "b13d5578b3c3e92da5efa4ba9a8761814a17b02c1226d2ead0b268d2010bcdd9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2020-english-two-fe942a21c3c8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2020-english-two-fe942a21c3c8.json",
+      "bytes": 29127,
+      "sha256": "a627853f322ef85d8be8fcec732f78a9e9d3d064f69650e7f3f669e5865d18c4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2020-english-two-fe942a21c3c8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-b272dd90ad2bf47a21a58f4f0bdf5a862f92a51196ec5fc60ab41efa0edfe8dc.pdf",
+      "bytes": 297299,
+      "sha256": "b272dd90ad2bf47a21a58f4f0bdf5a862f92a51196ec5fc60ab41efa0edfe8dc",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/b272dd90ad2bf47a21a58f4f0bdf5a862f92a51196ec5fc60ab41efa0edfe8dc.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2021-english-one-0db2ed86c794.json",
+      "bytes": 53151,
+      "sha256": "791bfde2f6d6dea8e1ab2af7ad764d61348e5b74203a8784c6559da2a7b6a15a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2021-english-one-0db2ed86c794.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2021-english-one-0db2ed86c794.json",
+      "bytes": 31864,
+      "sha256": "a8b94863a3d5a13047f95803908e1b1ed488e1fab4e07dbfb1b7a6eb4713dd8e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2021-english-one-0db2ed86c794.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-984c32528206d8188a9039a1e75960a1554e3a674fda47060ac3b6681eaa9fb6.pdf",
+      "bytes": 292302,
+      "sha256": "984c32528206d8188a9039a1e75960a1554e3a674fda47060ac3b6681eaa9fb6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/984c32528206d8188a9039a1e75960a1554e3a674fda47060ac3b6681eaa9fb6.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2021-english-two-785e9d8f6eb9.json",
+      "bytes": 49245,
+      "sha256": "26bf06552dd27316000770c376bc443ada13849ebf3b1491cbfb9e7d2b5398a0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2021-english-two-785e9d8f6eb9.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2021-english-two-785e9d8f6eb9.json",
+      "bytes": 28975,
+      "sha256": "881f39aa1a4f92998342c34ea2e34aa4726d851f5690c0878175a9bd2199a886",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2021-english-two-785e9d8f6eb9.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-34928d1e595643a2a87ef827685e25a5156138817a9e42bc21e7e2eaee4ec1d6.pdf",
+      "bytes": 298691,
+      "sha256": "34928d1e595643a2a87ef827685e25a5156138817a9e42bc21e7e2eaee4ec1d6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/34928d1e595643a2a87ef827685e25a5156138817a9e42bc21e7e2eaee4ec1d6.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2022-english-one-151b8158ecb8.json",
+      "bytes": 55072,
+      "sha256": "0ab282e849f9a42e878a4e5ee5c979d1172b6e8e2be2d82798c44db774f503f0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2022-english-one-151b8158ecb8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2022-english-one-151b8158ecb8.json",
+      "bytes": 21948,
+      "sha256": "af0b2efcababeea4cff6147a5d65d75fe44cf0d37b0bb17d12193d030d22b99b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2022-english-one-151b8158ecb8.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ce0ebe262bfdc50de7248f0be6d077cc43160d5fb91884b51aa19658b1893284.pdf",
+      "bytes": 291226,
+      "sha256": "ce0ebe262bfdc50de7248f0be6d077cc43160d5fb91884b51aa19658b1893284",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ce0ebe262bfdc50de7248f0be6d077cc43160d5fb91884b51aa19658b1893284.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2022-english-two-422812096739.json",
+      "bytes": 48107,
+      "sha256": "2f1e5428bafcbc440fdbc1a34c3ce31c673f9c538a0045c745807badbc6ce752",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2022-english-two-422812096739.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2022-english-two-422812096739.json",
+      "bytes": 28629,
+      "sha256": "3c658577c545153565e18eac0faf74fb8e0aed6e7e5e39e74ee6eda19d6a98eb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2022-english-two-422812096739.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ece9585e2cc3987e946238dff92a636d8ba38e569f01e602c1d5ab06ba7a3e13.pdf",
+      "bytes": 260584,
+      "sha256": "ece9585e2cc3987e946238dff92a636d8ba38e569f01e602c1d5ab06ba7a3e13",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ece9585e2cc3987e946238dff92a636d8ba38e569f01e602c1d5ab06ba7a3e13.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2023-english-one-05878487fb62.json",
+      "bytes": 59869,
+      "sha256": "4646f305315e0aa8a6b66b44a154216e68bf2d0fb703ce1e3d55066148d7c5ac",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2023-english-one-05878487fb62.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2023-english-one-05878487fb62.json",
+      "bytes": 38060,
+      "sha256": "b0083c3f497c914a0a66d0dc621280d65cf2068535fe5c545e01ef90bb6d7d9f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2023-english-one-05878487fb62.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ecd02c6e0a9a24b14bfb734c6e9a75217e8732c477a8c74153dc7e468e9d7afd.pdf",
+      "bytes": 256819,
+      "sha256": "ecd02c6e0a9a24b14bfb734c6e9a75217e8732c477a8c74153dc7e468e9d7afd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ecd02c6e0a9a24b14bfb734c6e9a75217e8732c477a8c74153dc7e468e9d7afd.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2023-english-two-c13aa53d5d55.json",
+      "bytes": 48813,
+      "sha256": "aee3020f0c8c0a28b9e3b5efae366f6187ef36c7d404d7d723522650ca94dbee",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2023-english-two-c13aa53d5d55.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2023-english-two-c13aa53d5d55.json",
+      "bytes": 30146,
+      "sha256": "e903161a52098a2a58d2cf050fbac0e7e2284fb96a3d72ce103b576164c9345a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2023-english-two-c13aa53d5d55.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-79dffc4988222e7546143ec96d580ebb513c7a53eb77a85fd6e24bd56b1d869f.pdf",
+      "bytes": 297762,
+      "sha256": "79dffc4988222e7546143ec96d580ebb513c7a53eb77a85fd6e24bd56b1d869f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/79dffc4988222e7546143ec96d580ebb513c7a53eb77a85fd6e24bd56b1d869f.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2024-english-one-32cabc2db207.json",
+      "bytes": 59742,
+      "sha256": "186b2d80de378e60d1f9e7e6a88bda68cf7133bb3341422ea61a8f839546a8ae",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2024-english-one-32cabc2db207.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2024-english-one-32cabc2db207.json",
+      "bytes": 22774,
+      "sha256": "6065b649ba79f2b7d015d1b454f29faad26c13fdf29fbe88c4d3276ab3f45bc7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2024-english-one-32cabc2db207.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-c2f5e26b9eb11c6b3ae4082307687725515178c8ca1a78ac9882383597130d1d.pdf",
+      "bytes": 255744,
+      "sha256": "c2f5e26b9eb11c6b3ae4082307687725515178c8ca1a78ac9882383597130d1d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/c2f5e26b9eb11c6b3ae4082307687725515178c8ca1a78ac9882383597130d1d.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2024-english-two-2f1fa2e84a14.json",
+      "bytes": 56130,
+      "sha256": "ba71ce61d7705222490e1a9e040e4986f7bf9dcb4f65b8087cf67a7c76d2cc75",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2024-english-two-2f1fa2e84a14.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2024-english-two-2f1fa2e84a14.json",
+      "bytes": 30626,
+      "sha256": "e336cb0ee2634c301c3d693d0fb5694b8648e7bcc44ccf1ce3789073274318df",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2024-english-two-2f1fa2e84a14.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-dbb9faf7d3cdeacefe49afe875e6606dad5918de630b2fb7b85a576a4b04e6e2.pdf",
+      "bytes": 262700,
+      "sha256": "dbb9faf7d3cdeacefe49afe875e6606dad5918de630b2fb7b85a576a4b04e6e2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/dbb9faf7d3cdeacefe49afe875e6606dad5918de630b2fb7b85a576a4b04e6e2.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2025-english-one-35263e112fee.json",
+      "bytes": 58707,
+      "sha256": "c014394d42904a689580915f07b381039d7b408b24038d33e8d2acc905aa0487",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2025-english-one-35263e112fee.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2025-english-one-35263e112fee.json",
+      "bytes": 37624,
+      "sha256": "cc6256cbbaa4cbe7b1f16f51ef9a8b0e87d9e94efbe793b7d1cd96be79195d42",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2025-english-one-35263e112fee.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-ab927a0d4f2e6a581b46e872f073b8cbb66e10290a0f02b2deb62880bee1f498.pdf",
+      "bytes": 291637,
+      "sha256": "ab927a0d4f2e6a581b46e872f073b8cbb66e10290a0f02b2deb62880bee1f498",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/ab927a0d4f2e6a581b46e872f073b8cbb66e10290a0f02b2deb62880bee1f498.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2025-english-two-c364f85de583.json",
+      "bytes": 52857,
+      "sha256": "66b9a5b156b0df503ee742fc890ceecb95e2cd995274ad46582533ced6b1e60d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2025-english-two-c364f85de583.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2025-english-two-c364f85de583.json",
+      "bytes": 29607,
+      "sha256": "5cb2942c050ccb0fe79b2ca8dde52791a3e42a8da57c3d2c1f5982836f6abf0b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2025-english-two-c364f85de583.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-5444e7759895161b86422051a5167d9d5a74e8ce369cad31c01487b78b61a92d.pdf",
+      "bytes": 261629,
+      "sha256": "5444e7759895161b86422051a5167d9d5a74e8ce369cad31c01487b78b61a92d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/5444e7759895161b86422051a5167d9d5a74e8ce369cad31c01487b78b61a92d.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2026-english-one-1bb250a110c4.json",
+      "bytes": 59226,
+      "sha256": "51759bd55fcb1aa5c5e582f10c7fa8c82a861d71725dc6ef5ec015573629d3ef",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2026-english-one-1bb250a110c4.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2026-english-one-1bb250a110c4.json",
+      "bytes": 37034,
+      "sha256": "54383200a9227a853ff64458633fe720f60b9d090a21cd03035da573df2ca2d6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2026-english-one-1bb250a110c4.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "pdf-2b19fbf0b4124f98f4ec135f7f739588bfa12f53cd3e34de0e1e028b8ffdba07.pdf",
+      "bytes": 255574,
+      "sha256": "2b19fbf0b4124f98f4ec135f7f739588bfa12f53cd3e34de0e1e028b8ffdba07",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/pdfs/2b19fbf0b4124f98f4ec135f7f739588bfa12f53cd3e34de0e1e028b8ffdba07.pdf"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "exp-local-source-kaoyan-2026-english-two-120dc2a2c94e.json",
+      "bytes": 50915,
+      "sha256": "1057103263940ee7064ef46fd09d5c1ef155173c65baed8a5c328656ea398291",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/explanations/local-source-kaoyan-2026-english-two-120dc2a2c94e.json"
+    },
+    {
+      "tag": "resources-exams-v1",
+      "name": "opt-local-source-kaoyan-2026-english-two-120dc2a2c94e.json",
+      "bytes": 30290,
+      "sha256": "871d12c9caa841d0afab0b3e1698aa508c4538fa8ea21fd2b537b8cfd4baa6fb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/exams/options/local-source-kaoyan-2026-english-two-120dc2a2c94e.json"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2017_06_1.m4a",
+      "bytes": 11510013,
+      "sha256": "ef2e25f7dab07f46503b253909ea0a0ede3b302a203fd3fe692d2d93d35a6661",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2017_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2017_06_2.m4a",
+      "bytes": 9653510,
+      "sha256": "5d851fddd7073bffc74ab8ac3cdbe5f9e585acc0c946577dfdab06bd13f58178",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2017_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2017_12_1.m4a",
+      "bytes": 11791772,
+      "sha256": "6eff89c39601a260bc2ed19df206b4ebc440ca01d4b9e65989d584be800744ea",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2017_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2017_12_2.m4a",
+      "bytes": 9494628,
+      "sha256": "a6df31c6807c6999ff52020cb6e5601f5270a2c2166dd32fa2bfd475d75960e5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2017_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2018_06_1.m4a",
+      "bytes": 11863847,
+      "sha256": "1895e1631414a9bbbf8b764b63407039adab2a0898a45c560a5d1ebc671ec80d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2018_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2018_06_2.m4a",
+      "bytes": 9453693,
+      "sha256": "c35b743947681b0ad799482faab9d7af78b8ffbf5916d1ff776a08ab94021c29",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2018_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2018_12_1.m4a",
+      "bytes": 11792358,
+      "sha256": "ca0249304d70fb4c1c84d201292f09e8c849d2b7dc33803b4f923a489f7ba05d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2018_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2018_12_2.m4a",
+      "bytes": 9199415,
+      "sha256": "6fdf2705ea2fe9cfd3f8ce0b505350398e0427380b179c4b7071fe46f3f89485",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2018_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2019_06_1.m4a",
+      "bytes": 11829452,
+      "sha256": "34613ff71575cd8b83ee777c4935173ce9795ea8d56ae2e2f20586f5a03c39fb",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2019_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2019_06_2.m4a",
+      "bytes": 9174714,
+      "sha256": "51c1a670b9ed616a6a4486ac68ea6209bccd2d69920bdb782b3ddc92ffd4a3ce",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2019_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2019_12_1.m4a",
+      "bytes": 12086414,
+      "sha256": "e9133c80bf6f279ab51480e0b5892b468906d430e20b3e27e05739286a163d62",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2019_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2019_12_2.m4a",
+      "bytes": 9152784,
+      "sha256": "d0f0339679c546d1e09f5116502cc152422dc80b4aedb6e69e1acddc54ed6231",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2019_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2020_07_1.m4a",
+      "bytes": 12041488,
+      "sha256": "c5bc660210c4a0e0ada9f396c2c9ae8577d435a2a2547ef232bb168d73528843",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2020_07_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2020_09_1.m4a",
+      "bytes": 11872869,
+      "sha256": "0241d73e575d906398d8ec1197c93c1a216f916e9af16054c6019780a751dd84",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2020_09_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2020_12_1.m4a",
+      "bytes": 9279486,
+      "sha256": "2c027eabdcdfa74ce24b50925927093988491cd1a33c923eba7953883269e827",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2020_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2020_12_2.m4a",
+      "bytes": 8461483,
+      "sha256": "7dbf1b21616582df771261f272eec286376874104e3ffe0dd0d8b98baa4deb68",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2020_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2021_06_1.m4a",
+      "bytes": 11544222,
+      "sha256": "341c2c0910b67a5abdebdf8f2948d1ab0e5a2cac459f9df8a2827360f2dbb242",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2021_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2021_06_2.m4a",
+      "bytes": 11958878,
+      "sha256": "3dcf80fc0c9429be3216cc988e9a921c25795e3cdb658a3347d60f1d15cc880d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2021_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2021_12_1.m4a",
+      "bytes": 11834928,
+      "sha256": "f218e70cfa9dab0d96b683ef5a43b09a8a59779915918ed9f5563b87e94155d6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2021_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2021_12_2.m4a",
+      "bytes": 11957816,
+      "sha256": "f95c8b817ccfc909de0fa8f09c575bbaa6ff4cc1506cf31fac2e2bd6fa73689a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2021_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2022_06_1.m4a",
+      "bytes": 11199908,
+      "sha256": "28df0f43c6aa9eb1d78add81c4cd8ff70d41eda86844b4fba4ffb3a201b4e3cd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2022_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2022_09_1.m4a",
+      "bytes": 12667849,
+      "sha256": "ec0089d9782284fc6d56767292225f3bbe3e26c1cb9cbe18d9190358b438abd9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2022_09_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2022_12_1.m4a",
+      "bytes": 11742707,
+      "sha256": "c48d54cbe88226472d17f7071bda20fdeda2db082ebae95f7238927afb0114fe",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2022_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2022_12_2.m4a",
+      "bytes": 8413971,
+      "sha256": "c6b0be1837a41c64478f2d22566b0e87a5aa493e6c041491d359ccc95fca68b2",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2022_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2023_03_1.m4a",
+      "bytes": 8706537,
+      "sha256": "90007ddf434e2973c80ccfb6cdf2581ca8c06c76fa61cbaedb9b550017161cea",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2023_03_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2023_06_1.m4a",
+      "bytes": 11950177,
+      "sha256": "641fb942b9b3ca7e6ab5e24d64241217ee1e03eec1b09f4e0dcc2f42c2945c35",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2023_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2023_06_2.m4a",
+      "bytes": 12043960,
+      "sha256": "1ac33e3d4bc72cf299fa9e33459029a17578ea90d1b86acf21fede9540249fa9",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2023_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2023_12_1.m4a",
+      "bytes": 11985841,
+      "sha256": "d5a222a38f31dcb7eec3cbc34d16cc0992ed091e632e6cd06141dedb906b1fa7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2023_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2023_12_2.m4a",
+      "bytes": 11785834,
+      "sha256": "96b3bd6d11e2defd2fe3ebb80543a371c55230ce15f2c75f96c26c291e0c031b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2023_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2024_06_1.m4a",
+      "bytes": 8675900,
+      "sha256": "47ad59ef6b300f81ec8957ac856c192d008c5c20d889e47e22230ed67af721ab",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2024_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2024_06_2.m4a",
+      "bytes": 8507569,
+      "sha256": "9c0d5bf8c0435bc3bc3548bd06831bbcc5dfc2fa3611210a882e3eea1279bb4c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2024_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2024_12_1.m4a",
+      "bytes": 11932925,
+      "sha256": "b687c41f90611cfd37347fb7dde19c1eaeec716a004cb8965822415f7d8f5711",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2024_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2024_12_2.m4a",
+      "bytes": 8530516,
+      "sha256": "79bc22f7e87e655f99b89f996ed4a92c7a61ca5ec1f0d0e59fb6232769a23f08",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2024_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2025_06_1.m4a",
+      "bytes": 11991608,
+      "sha256": "84bd0c57017bee601fcc939cff75ebe12a1237ad56a3504a00ead13c714aac56",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2025_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2025_06_2.m4a",
+      "bytes": 8912122,
+      "sha256": "bd4d324e3d5d27e82070c4035e4a000c0eda81385d790935474d0f515e72f306",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2025_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2025_12_1.m4a",
+      "bytes": 7914153,
+      "sha256": "1c1600e21adf2b8b7e32fcdf21f15cfb4d04462205e5decd788500a93c7ba735",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2025_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2025_12_2.m4a",
+      "bytes": 9304076,
+      "sha256": "e5823cb3d0bc1cfe55071ca17d8db743c8e3cfa0d272481398b9b6ed2e835397",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2025_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2026_06_1.m4a",
+      "bytes": 11979284,
+      "sha256": "51024e3976ab150d949d5b25d0447e7b00d922e67db6534031ae1d2456940be5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2026_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet4-2026_06_2.m4a",
+      "bytes": 11488833,
+      "sha256": "abc008821c8e19d0feef555a06b8225657b90778486b2141a50fc8ae3b7f288e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet4-2026_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2017_06_1.m4a",
+      "bytes": 12570645,
+      "sha256": "57558fff2eb5fc192322f3c374e30e9926eb18064bd06af967b54d07c7535b7a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2017_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2017_06_2.m4a",
+      "bytes": 11713516,
+      "sha256": "65de280959db0ca9075ad0c0c478037764de4fe7cc1547337416698d7333b401",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2017_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2017_12_1.m4a",
+      "bytes": 11476973,
+      "sha256": "7426a33f2e9afbb6367bb25bed4351185d10fea19d3a4318605d3c8b8efca631",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2017_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2017_12_2.m4a",
+      "bytes": 11334506,
+      "sha256": "829d5a5311e0194ca78c67566b2f044241f62efbe77bdb31a79edabbb632b1cf",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2017_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2018_06_1.m4a",
+      "bytes": 13837735,
+      "sha256": "cd23af9560e5ea90aa9845a32cedae3e1c1e99db8872518b6f8b01c0fb5cdfb8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2018_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2018_06_2.m4a",
+      "bytes": 11408901,
+      "sha256": "552ed525ee0cc74048a26dee93b6e4feb3c56d036da26c8862e52bc5110c0e4c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2018_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2018_12_1.m4a",
+      "bytes": 13484264,
+      "sha256": "d3fb22fc6f6f85dcca19e9779ae488b6b2122c7ce46552d58f0c7c8e03133c28",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2018_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2018_12_2.m4a",
+      "bytes": 10739798,
+      "sha256": "a1ec5ad38755fb0d568d983121edca5e327121a63dd0e465ac58e4875a3d4717",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2018_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2019_06_1.m4a",
+      "bytes": 13566082,
+      "sha256": "a9d22af5e9fa9b5a35575b1a516651320936f24bee10b60ab7f0db5777ab5cd7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2019_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2019_06_2.m4a",
+      "bytes": 11482099,
+      "sha256": "7598d85096929ffdef23763c554d5af1ce79275f815fc4f5a452f84915df17c3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2019_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2019_12_1.m4a",
+      "bytes": 13493268,
+      "sha256": "16384e78f909936fff3b05fe6ca8b4a36a95a39491c094e3bdf14d027607e3f3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2019_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2019_12_2.m4a",
+      "bytes": 11312475,
+      "sha256": "787164badaca412e58a044cdb08b62904a75fe2e4a9cd34b38c2b92cc841363f",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2019_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2020_07_1.m4a",
+      "bytes": 13493403,
+      "sha256": "ad1b3db837ef7e0e4d20df04732d1442a7ae9052177e49f953deed90598fe8e7",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2020_07_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2020_09_1.m4a",
+      "bytes": 13095977,
+      "sha256": "6f3b6039f9ab3aae873696718d208af1d8b4eda270426d4b344fe23773a37392",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2020_09_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2020_12_1.m4a",
+      "bytes": 12614522,
+      "sha256": "bfd57eda1226576f6d3071fcf090cf59daeb305a64ae2118bd6ef5db87390ccd",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2020_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2020_12_2.m4a",
+      "bytes": 10764486,
+      "sha256": "f02d51082cbcbb216d9e326d3d6b91b35e4ae5ad190cc765de7114d6ef7f12b3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2020_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2021_06_1.m4a",
+      "bytes": 14415117,
+      "sha256": "a43738ace2b50cfa923ba9724abd49563c87d827d7dd148cef15febc7e470720",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2021_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2021_06_2.m4a",
+      "bytes": 11671978,
+      "sha256": "75b76994ea254435383ef3b7c3be78fc3d8e6669a25139198722ebe4795d093e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2021_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2021_12_1.m4a",
+      "bytes": 10361326,
+      "sha256": "1fa46778456e4ae33b31b3730d3eb46bb643fdd558ba40334a30de08a7f9345a",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2021_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2021_12_2.m4a",
+      "bytes": 10461677,
+      "sha256": "ca5e15ef50c90ecca454aef336c78871cdf84489ea265e36ad270af4ee4033f6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2021_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2022_06_1.m4a",
+      "bytes": 10791196,
+      "sha256": "5df5ef98a0a026ff03012df0e47f78c81d27526093a9627872fde4b053bb907d",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2022_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2022_09_1.m4a",
+      "bytes": 13568344,
+      "sha256": "66223ebb94a6c81011e70ff29148fa917c193e5286f20bd40def95a6b13796e3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2022_09_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2022_12_1.m4a",
+      "bytes": 13685548,
+      "sha256": "33a137d52ac0ddd75091f4c6fffeb4c5e6080547872f49b5d061e62853cd55a4",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2022_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2022_12_2.m4a",
+      "bytes": 11209118,
+      "sha256": "e6b4a3b78f02d6134a0168a1da66ce177503a7cc5b664a8b52e6f9e544ebd4b0",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2022_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2023_03_1.m4a",
+      "bytes": 10606707,
+      "sha256": "124996d0ce69e195905131a20b46bca9defd51dc1cd16f2920ad99876e757e05",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2023_03_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2023_06_1.m4a",
+      "bytes": 13827877,
+      "sha256": "b8372d75c4885b73361bcadcd52f9385cddc0e676d156e4430923c64b18865ff",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2023_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2023_06_2.m4a",
+      "bytes": 11168117,
+      "sha256": "7127a7908e2d376b5c81674173fc979ef5b80d8e35ec1b4bbbfe099d4f6a8e81",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2023_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2023_12_1.m4a",
+      "bytes": 13071508,
+      "sha256": "753c1ce20d083974825547b2a39c5db81df5479b518839158158844cad062c4c",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2023_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2023_12_2.m4a",
+      "bytes": 10432282,
+      "sha256": "e83bbba5ddd4f0904d02564e753d202c7bcd79d3501ec73b6947ab20496036e5",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2023_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2024_06_1.m4a",
+      "bytes": 10864604,
+      "sha256": "191ebcfdd38e196ecb134b4a961c9ac59c0f105c85cf307bc8e6ddbdffd66f25",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2024_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2024_06_2.m4a",
+      "bytes": 10651465,
+      "sha256": "7740f4284069d5012627a048314c92e656afd519f27c4b8ad1847f1f87ee908e",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2024_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2024_12_1.m4a",
+      "bytes": 13961602,
+      "sha256": "b8cf82ca1efc64c5c7ec1812701c5b13e0b66429cfd21c781ea06f14887c2461",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2024_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2024_12_2.m4a",
+      "bytes": 10892219,
+      "sha256": "9862acbb070bab1f3f81a3e336b0e137f8121fdc6933a8394321439833218f1b",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2024_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2025_06_1.m4a",
+      "bytes": 13154083,
+      "sha256": "22d51b6b7a45fbbc575da269b783003b50a200085e16d4854da56bf2ff30ed93",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2025_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2025_06_2.m4a",
+      "bytes": 10572821,
+      "sha256": "09985ea5aa05f9a5e4a05578cb644468fb3ce0be304950a91b862d181ba5f747",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2025_06_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2025_12_1.m4a",
+      "bytes": 10025968,
+      "sha256": "bf40caf2ff89634b5972560231e417ee79254e1d46f14cd007596fb22cc90f40",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2025_12_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2025_12_2.m4a",
+      "bytes": 10174722,
+      "sha256": "25601383cc9d89cd76a0ac30fc1b1fd5af90e3bc22f0a40a09d5b99a7defbfe6",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2025_12_2.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2026_06_1.m4a",
+      "bytes": 12642062,
+      "sha256": "7d4bb4c90ebbe82e3b1459866a4acc9990ee4454c6403989a06c6acf313808a8",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2026_06_1.m4a"
+    },
+    {
+      "tag": "resources-listening-v1",
+      "name": "cet6-2026_06_2.m4a",
+      "bytes": 12905471,
+      "sha256": "1fea87dc429c6f11a47b0ad3490e15865e38bc643b86831dc384d8b57880f7b3",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/listening/cet6-2026_06_2.m4a"
+    },
+    {
+      "tag": "resources-dictionary-v1",
+      "name": "longman-6-cleaning-manifest.json",
+      "bytes": 2035,
+      "sha256": "41a647865843d5d0a32548d4028b3fece7a7729456f2e823eff8b4a25b208944",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/dictionaries/longman-6/CLEANING_MANIFEST.json"
+    },
+    {
+      "tag": "resources-dictionary-v1",
+      "name": "longman-6-readme.txt",
+      "bytes": 149,
+      "sha256": "fbcf0ffa1c1a95b6d53bd263fceccf4666fe388a1f17ea5b2fe3c2f8fcb5f556",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/dictionaries/longman-6/README.txt"
+    },
+    {
+      "tag": "resources-dictionary-v1",
+      "name": "longman-6-mobile.css",
+      "bytes": 17870,
+      "sha256": "236b9bf1d2615cc4dc79eccf9d952cfbcfc203f6af07f4cdb8402a9fc53ed863",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/dictionaries/longman-6/lm6%20-%20%E6%89%8B%E6%9C%BA.css"
+    },
+    {
+      "tag": "resources-dictionary-v1",
+      "name": "longman-6.css",
+      "bytes": 17895,
+      "sha256": "1b0130a0886993bf6c260090ccfb5791fc922cba93791cf65283d84980a459ca",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/dictionaries/longman-6/lm6.css"
+    },
+    {
+      "tag": "resources-dictionary-v1",
+      "name": "longman-6.js",
+      "bytes": 25655,
+      "sha256": "e82bfe89bcdca972f5a090f7e88f695f8e30bcad406173db95a63d547be36767",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/dictionaries/longman-6/lm6.js"
+    },
+    {
+      "tag": "resources-dictionary-v1",
+      "name": "longman-6-aux.mdd",
+      "bytes": 3658725,
+      "sha256": "9458647b5efd5d26465d5dad2670608cd42fa5ec8062c45042e334c129e12891",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/dictionaries/longman-6/%E6%9C%97%E6%96%87%E5%BD%93%E4%BB%A3%E9%AB%98%E7%BA%A7%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B86th-cleaned.1.mdd"
+    },
+    {
+      "tag": "resources-dictionary-v1",
+      "name": "longman-6-main.mdd",
+      "bytes": 348177528,
+      "sha256": "a7b827a3a0143e569dd3ff84c2372c906c0b148a62c80df4cb6a6c59d277bb38",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/dictionaries/longman-6/%E6%9C%97%E6%96%87%E5%BD%93%E4%BB%A3%E9%AB%98%E7%BA%A7%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B86th-cleaned.mdd"
+    },
+    {
+      "tag": "resources-dictionary-v1",
+      "name": "longman-6-dictionary.mdx",
+      "bytes": 116134661,
+      "sha256": "ba97889a70b3b8160b55707674d5cbf6e7c65ec3f1fc1ad9cad2ad34af46b456",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/dictionaries/longman-6/%E6%9C%97%E6%96%87%E5%BD%93%E4%BB%A3%E9%AB%98%E7%BA%A7%E8%8B%B1%E8%AF%AD%E8%AF%8D%E5%85%B86th-cleaned.mdx"
+    },
+    {
+      "tag": "resources-speech-macos-v1",
+      "name": "kokoro-engine-macos-arm64-20261113.zip",
+      "bytes": 69537484,
+      "sha256": "5edf9f7b1061315aa2ff6b899c4f86d794880244f3eef170d633d21480114822",
+      "sourceUrl": "https://download.xnbreader.tech/resources/v1/speech/kokoro-v1.0/kokoro-engine-macos-arm64-20261113.zip"
+    }
+  ]
+}
